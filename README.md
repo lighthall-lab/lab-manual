@@ -20,7 +20,7 @@
  - [Presentations](#presentations)
  - [Lab travel](#lab-travel)
  - [Recommendation letters](#recommendation-letters)
- - [Data management](#data-management)
+ - [Research Drive](#research-drive)
 - [Funding](#funding)
 - [Undergraduate research](#undergraduate-research)
 - [FAQ](#faq-and-who-to-ask)
