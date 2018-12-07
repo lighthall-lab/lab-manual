@@ -42,7 +42,7 @@ The ADD Lab manual was inspired by other similar works, and it's structure is di
 - Respect each others' strengths, weaknesses, differences, and beliefs.
 - Science is a marathon, not a sprint. Take personal time/ vacation when you need it and cultivate a life outside of the lab. Respect that other lab members also have a life outside of lab.
 - Communicate openly and respectfully with other members of the lab.
-- If you have an issue with another lab member that cannot be solved by talking with them about it, please talk with Maureen. If you have an issue with Maureen, please reach out to another member of the psychology department who can intervene (this can be the lab manager for smaller lab issues, or another faculty member or the department chair for more serious issues).
+- If you have an issue with another lab member that cannot be solved by talking with them about it, please talk with Nichole. If you have an issue with Nichole, please reach out to another member of the psychology department who can intervene (this can be the lab manager for smaller lab issues, or another faculty member or the department chair for more serious issues).
 - Academia may feel different from other types of jobs, but it is still a job. You should treat coming into lab with the same respect that you would treat any other position. See [Hours](#hours).
 
 ### Small picture
@@ -131,7 +131,7 @@ Harassment includes offensive verbal comments related to gender, gender identity
 
 Members asked to stop any harassing behavior are expected to comply immediately.
 
-If you are being harassed, notice that someone else is being harassed, or have any other concerns, please contact Nichole Lighthall immediately. If Maureen is the cause of your concern, then please reach out to the department chair or another trusted departmental member who can assist.
+If you are being harassed, notice that someone else is being harassed, or have any other concerns, please contact Nichole Lighthall immediately. If Nichole is the cause of your concern, then please reach out to the department chair or another trusted departmental member who can assist.
 
 We expect members to follow these guidelines at any lab-related event.
 
