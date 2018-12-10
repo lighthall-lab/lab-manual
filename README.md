@@ -48,7 +48,7 @@ The ADD Lab manual was inspired by other similar works, and it's structure is di
 ### Small picture
 - Do not come into the lab if you are sick. Stay home and get healthy, and don't risk getting others sick.
 - Notify the lab manager or me if you will be out, either due to illness or vacation. Make a note on the lab calendar. If you are sick and you had experiments or meetings scheduled that day, notify your participants or collaborators and reschedule.
-- You are not expected to come into lab on [staff holidays](http://www.bc.edu/offices/hr/resources/campusinfo/holidays.html). If you are being paid, then you *are* expected to come into lab during university breaks (except for staff holidays or if you're taking your [paid vacation time](http://www.bc.edu/offices/hr/resources/handbook/hbk-benefits.html#vac)).
+- You are not expected to come into lab on [staff holidays](). If you are being paid, then you *are* expected to come into lab during university breaks (except for staff holidays or if you're taking your [paid vacation time]().
 - Lock the doors to the lab if no one else is around, even if you're stepping out for a minute.
 - Keep the lab tidy. Food messes should be cleaned up promptly, dirty dishes taken home with you, and common areas should be kept free of clutter. Items left unattended may be cleaned, reclaimed, or recycled. If you're using lab equipment, put it away when you're done.
 - The dress code in academia is generally casual. My only request is that you look semi-professional when interacting with participants and when presenting your work. Jeans are fine, gym clothes and pajamas are not.
@@ -120,7 +120,7 @@ Many topics were covered already in the [Lab member expectations & responsibilit
 
 **In addition:**
 
-All members of the lab, along with visitors, are expected to agree with the following code of conduct. We will enforce this code as needed. We expect cooperation from all members to help ensuring a safe environment for everybody. Please also see the Boston College [Discriminatory Harassment Policy](http://www.bc.edu/content/dam/files/offices/policies/pdf/policies/I/1-200-025.pdf).
+All members of the lab, along with visitors, are expected to agree with the following code of conduct. We will enforce this code as needed. We expect cooperation from all members to help ensuring a safe environment for everybody. Please also see the University of Central Florida [Discriminatory Harassment Policy]().
 
 ### The Quick Version
 
@@ -267,12 +267,10 @@ Our lab's directory on the research drive has a structure like this:
     - `docs`
       - `protocol`
       - `irb`
+    - `deploy` 
+      - Shortcuts, numbered and clearly named, in the order they appear on the study's exam protocol, pointed at the necessary files in `stimuli`, for easy deployment at the time of data collection.
     - `stimuli`
-      - All stimuli should be stored here. When appropriate, the experiment should be run directly from these files, and the structure should look like this:
-        - `src` 
-          - Source files: stimulus images, paradigm scripts, configuration files, etc.
-        - `deploy` 
-          - Shortcuts: numbered and clearly named, in the order they appear on the study's exam protocol, pointed at the necessary files in `src`, for easy deployment at the time of data collection.
+      - All stimuli should be stored here: stimulus images, paradigm scripts, configuration files, etc. When appropriate, such as when the `deploy` directory shortcuts are not working, the experiment should be run directly from these files. 
     - `sourcedata`
       - All raw datafiles created by the experiment paradigm when data is collected, in individual subject folders.
       - Unless absolutely necessary, we should *never* directly manipulate the structure or content of datasets here. Instead, we should develop pipelines (`code`) for extracting data from here, transforming it, and loading it into `derivatives`.
@@ -285,7 +283,7 @@ Our lab's directory on the research drive has a structure like this:
           - `func`
     - `code`
       - All code being used to extract, clean, merge, transform, analyze, etc., any of the project's data should be stored here, and kept as organized and tidy as possible, containing a README.md file that describes as much info as possible about the study and pipeline.
-      - Code organization and tidyness might include giving your files descriptive, concise names, sorting pipeline steps into folders, appending your filenames with step numbers (e.g., `1.extract.sh`,`2.tranform.sh`), etc.
+      - Code organization and tidyness might include giving your files descriptive, concise names, sorting pipeline steps into folders, appending your filenames with step numbers (e.g., `1.extract.sh`,`2.tranform.py`), etc.
       - This directory should always be a local git repository pointed to a remote repository origin on the [Lab GitHub](https://github.com/lighthall-lab/")
     - `derivatives`
       - All analysis files, intermediary data transformations, figures, etc., should go here.
@@ -309,11 +307,12 @@ I will oversee all aspects of the financial management of our funding sources. H
 
 # Undergraduate research
 ***[to-add]: information about PSY 4912 and research-for-credit, etc.***
+
 Undergraduate research assistants play an important role in our lab, and we have a few opportunities for them to earn money or credit for their contributions. Because these opportunities require a certain degree of commitment from both the student and the lab, we generally reserve them for students who have already spent at least one semester volunteering in lab. If this policy would prevent you from being able to work in lab, please talk to me or the lab manager because we want all students to be able to pursue their research interests.
 
 In addition to volunteering in lab, other research opportunities include:
- 1. If you want to work in lab and earn course credit, you can sign up for independent study or undergraduate research ([link to info](https://www.bc.edu/bc-web/schools/mcas/departments/psychology/undergraduate/research-opportunities.html)). We will have to fill out a syllabus contract at the beginning of the semester. Typically you would be in lab for at least 10 hours a week, and you would also be required to attend lab meetings, present at one of them, and write a short statement about your experiences at the end of the semester. Note that you can enroll in research courses multiple times.
- 2. If you want to work in lab and earn money, you can apply for an [undergraduate research fellowship](https://www.bc.edu/schools/cas/services/faculty/facforms/researchfellows/reschfell.html). Candidates are expected to be academically strong (typically, GPA of 3.4 or above), and you would be expected to work 12-15 hours per week. Because these fellowships are intended to support your academic development, URF students will be strongly encouraged to participate in lab meetings. Note that if you have another BC job, you're not allowed to work more than 20 hours per week during the academic year, and that includes the URF hours (which will also count toward work-study).
+ 1. If you want to work in lab and earn course credit, you can sign up for independent study or undergraduate research ([link to info](). We will have to fill out a syllabus contract at the beginning of the semester. Typically you would be in lab for at least 10 hours a week, and you would also be required to attend lab meetings, present at one of them, and write a short statement about your experiences at the end of the semester. Note that you can enroll in research courses multiple times.
+ 2. If you want to work in lab and earn money, you can apply for an [undergraduate research fellowship](). Candidates are expected to be academically strong (typically, GPA of 3.4 or above), and you would be expected to work 12-15 hours per week. Because these fellowships are intended to support your academic development, URF students will be strongly encouraged to participate in lab meetings. Note that if you have another UCF job, you're not allowed to work more than 20 hours per week during the academic year, and that includes the URF hours (which will also count toward work-study).
  3. If you want to work in lab, earn money, and are eligible for work-study, there may be other paid research opportunities available.
 
 If you're an undergraduate student and you want to pursue any of these options, talk to me or the lab manager.
