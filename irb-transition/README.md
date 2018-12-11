@@ -71,7 +71,7 @@ Instead of routing a submission through Nichole *before* it goes to the IRB, we 
 - mostly IRB SOPs and Worksheets
 - major changes for researchers
     - changes to exempt categories:
-        - *"Brief Benign Behavioral interventions" (!!!)*
+        - **"Brief Benign Behavioral Interventions" (!!!)**
             - not a clear definition for "brief", but sounds like all of our studies would apply
             - anything half-a-day or less, probably, including pre- and post-intervention measurements, etc.
         - "Limited irb review"
