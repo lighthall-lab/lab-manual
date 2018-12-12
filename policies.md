@@ -39,65 +39,8 @@ Letters of recommendation are one of the many benefits of working in a research 
 
 To request a letter of recommendation, please adhere to the deadline requirements described above. Send me your current CV and any relevant instructions for the contents of the letter. If you are applying for a grant, send me your specific aims or a short summary of the grant. In some but not all cases, I may ask you to draft a letter, which I will then revise to be consistent with my evaluation. This will ensure that I do not miss any details about your work that you think are relevant to the position you're applying for, and it will also help me complete the letter in a timely fashion.
 
-## Research Drive
-Almost all of our data is stored on a **secure UCF server**, the "Research drive". You should have full access to it once the lab managers have completed your orientation and onboarding procedures, and it should appear as the R:/ drive on any of the lab's IT-managed computers. Your personal computers are also capable of accessing this data, so long as you are connected to the `UCF_WPA2` wireless network, or use the [UCF VPN](https://www.cst.ucf.edu/wp-content/uploads/service%20desk/NewVPN_user.pdf) to connect to the university network from home.
+## Data Organization
+Almost all of our data is stored on a **secure UCF server**, the "[Research Drive](resources.md#research-drive". You should have full access to this drive once the lab managers have completed your orientation and onboarding procedures, and it should appear as the R:/ drive on any of the lab's IT-managed computers.
 
-### Data organization
-Our lab's directory on the research drive has a structure like this:
-- `_archive`
-  - For old stimuli, datasets, analyses, out-of-date code, or anything else that's not being used anymore.
-  - Deleting files from the Research Drive cannot be undone (*there's no "Recycle Bin"!*), so moving things here that you don't need anymore is the preferred method for disposal unless you are **1000% sure** you won't need it anymore.
-  - This stuff is first on the chopping block when we need to save space on the Research Drive.
-- `_working`
-  - For stuff you're - *drumroll, please!* - working on, that doesn't quite belong anywhere else.
-- `apps`
-  - Source code for various code toolboxes and utilities you may need to use.
-  - You might be pointed here if you need to use one of the ones we already store here, but you are also welcome to store anything here in its own directory if you think you and/or others might find it useful.
-  - If you do find a package or utility you want to store here, put it here in its own directory using `git clone` or another method, and feel free to work on it here.
-- `docs`
-  - `user`
-    - For any small files and documents you're working on for yourself that you need somewhere to store, feel free to create a folder in here with your name/initals/whatever.
-    - Please don't abuse this storage by putting large files in here. Anything you put in here is also viewable to anyone else with access to the Research Drive, so don't store any sensitive or confidential information here.
-  - `resources`
-    - Tutorials, templates, recruitment materials, forms, etc., for example:
-    - `lab-manual`
-    - `guides`
-      - `Git-Version-Control-Tutorial`
-      - `Image Processing`
-    - `textbooks`
-    - `papers`
-    - `meetings`
-    - `llrn`
-      - Resources for the *Learning & Longevity Research Network*
-- `experiments`
-  - Individual folders for each project, with structure like so:
-  - `project-name`
-    - `docs`
-      - `protocol`
-      - `irb`
-    - `deploy` 
-      - Shortcuts, numbered and clearly named, in the order they appear on the study's exam protocol, pointed at the necessary files in `stimuli`, for easy deployment at the time of data collection.
-    - `stimuli`
-      - All stimuli should be stored here: stimulus images, paradigm scripts, configuration files, etc. When appropriate, such as when the `deploy` directory shortcuts are not working, the experiment should be run directly from these files. 
-    - `sourcedata`
-      - All raw datafiles created by the experiment paradigm when data is collected, in individual subject folders.
-      - Unless absolutely necessary, we should *never* directly manipulate the structure or content of datasets here. Instead, we should develop pipelines (`code`) for extracting data from here, transforming it, and loading it into `derivatives`.
-      - The preferred structure for datasets is the [BIDS](http://bids.neuroimaging.io/) standard structure with individual folders for each subject:
-        - `sub-101`
-        - `sub-102`
-        - `sub-201`
-          - `beh`
-          - `anat`
-          - `func`
-    - `code`
-      - All code being used to extract, clean, merge, transform, analyze, etc., any of the project's data should be stored here, and kept as organized and tidy as possible, containing a README.md file that describes as much info as possible about the study and pipeline.
-      - Code organization and tidyness might include giving your files descriptive, concise names, sorting pipeline steps into folders, appending your filenames with step numbers (e.g., `1.extract.sh`,`2.tranform.py`), etc.
-      - This directory should always be a local git repository pointed to a remote repository origin on the [Lab GitHub](https://github.com/lighthall-lab/")
-    - `derivatives`
-      - All analysis files, intermediary data transformations, figures, etc., should go here.
-      - Data pipelines should only **ever** write data into this folder or its subfolders, and should be kept well-organized and tidy just as the `code` is.
-      
-I encourage you to become very familiar with the structure of the Research Drive - you will be accessing it quite often.
-
-### Data sharing
+## Data sharing
 Not only is data-sharing the right thing to do, we are actually required to do so for any dataset that was funded by the NIH. We will make these datasets publicly available within a year of publishing the first paper from the dataset. You should also be prepared to share any scripts that you used in your published processing & analysis pipeline. Currently, the best option for sharing smaller datasets seems to be the [Open Science Framework](https://osf.io/), the best option for sharing MRI datasets is [OpenFMRI](https://openfmri.org/), and I don't yet know what is the best option for sharing EEG datasets.
