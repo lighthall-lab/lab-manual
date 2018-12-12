@@ -40,7 +40,7 @@ Your personal computers are also capable of accessing this data, so long as you 
 		2. Choose a drive letter (We use "R:") and enter the server address:
 			- `\\net1110.net.ucf.edu\research2\lighthall_lab\`
 	- Mac
-		1. ***[to-add]**: instructions for mounting network share on Mac OS
+		1. ***[to-add]**: instructions for mounting network share on Mac OS*
 		
 ### Structure of the Research Drive
 I encourage you to become very familiar the Research Drive's directory structure - you will be accessing it quite often. Our allocation is structured like this:
@@ -92,7 +92,7 @@ I encourage you to become very familiar the Research Drive's directory structure
     - `code`
       - All code being used to extract, clean, merge, transform, analyze, etc., any of the project's data should be stored here, and kept as organized and tidy as possible, containing a README.md file that describes as much info as possible about the study and pipeline.
       - Code organization and tidyness might include giving your files descriptive, concise names, sorting pipeline steps into folders, appending your filenames with step numbers (e.g., `1.extract.sh`,`2.tranform.py`), etc.
-      - This directory should always be a local git repository pointed to a remote repository origin on the [Lab GitHub](https://github.com/lighthall-lab/")
+      - This directory should always be a local git repository pointed to a remote repository `origin` on the [Lab GitHub](https://github.com/lighthall-lab/")
     - `derivatives`
       - All analysis files, intermediary data transformations, figures, etc., should go here.
       - Data pipelines should only **ever** write data into this folder or its subfolders, and should be kept well-organized and tidy just as the `code` is.
