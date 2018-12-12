@@ -1,3 +1,5 @@
+[Return to Table of Contents](readme.md#table-of-contents)
+
 # Lab member expectations and responsibilities
 ## Everyone
 ### Big picture
@@ -80,3 +82,5 @@ All of the [above](#everyone), plus you will be expected to:
  - Present at one meeting during the semester.
  - Write a short essay on your research topic or experiences at the end of the semester.
 - For more information about undergraduate research positions, refer to the [Undergraduate research](#undergraduate-research) section below.
+
+[Return to Table of Contents](readme.md#table-of-contents)

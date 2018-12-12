@@ -1,3 +1,5 @@
+[Return to Table of Contents](readme.md#table-of-contents)
+
 # General policies
 ## Hours
 One of the benefits of a career in academic research is that it is typically more flexible than other kinds of jobs. However, you should still treat it like a job. If you are employed for 40 hours a week, you should be working 40 hours a week. This applies to lab staff members (the lab manager and other research assistants) and postdocs. You are not required to work over-time. For graduate students, I recognize that you have other demands on your time like classes and TA-ing but still expect to see you in lab, doing research, often.
@@ -44,3 +46,5 @@ Almost all of our data is stored on a **secure UCF server**, the "[Research Driv
 
 ## Data sharing
 Not only is data-sharing the right thing to do, we are actually required to do so for any dataset that was funded by the NIH. We will make these datasets publicly available within a year of publishing the first paper from the dataset. You should also be prepared to share any scripts that you used in your published processing & analysis pipeline. Currently, the best option for sharing smaller datasets seems to be the [Open Science Framework](https://osf.io/), the best option for sharing MRI datasets is [OpenFMRI](https://openfmri.org/), and I don't yet know what is the best option for sharing EEG datasets.
+
+[Return to Table of Contents](readme.md#table-of-contents)
