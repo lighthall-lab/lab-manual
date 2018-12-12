@@ -21,7 +21,7 @@
   - [Lab travel](#lab-travel)
   - [Recommendation letters](#recommendation-letters)
   - [Research Drive](#research-drive)
-  - [IRB Guide](irb-transition/README.md)
+  - [IRB Guide](irb-transition.md)
 - [Funding](#funding)
 - [Undergraduate research](#undergraduate-research)
 - [FAQ](#faq-and-who-to-ask)
