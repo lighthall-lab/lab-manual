@@ -1,43 +1,41 @@
-# Table of Contents
-- [Introduction](#introduction)
-- [Lab member expectations & responsibilities](responsibilities.md)
-  - [Everyone](#everyone)
-  - [PI](#pi)
-  - [Postdocs](#postdocs)
-  - [Graduate students](#graduate-students)
-  - [Lab managers](#lab-managers)
-  - [Other full-time staff](#other-full-time-staff)
-  - [Undergraduate students](#undergraduate-students)
-- [Code of conduct](#code-of-conduct)
-  - [General](#general)
-  - [Scientific integrity](#scientific-integrity)
-  - [Human subjects research](#human-subjects-research)
-- [Lab resources](resources.md)
-- [General policies](policies.md)
-  - [Hours](#hours)
-  - [Meetings](#meetings)
-  - [Deadlines](#deadlines)
-  - [Presentations](#presentations)
-  - [Lab travel](#lab-travel)
-  - [Recommendation letters](#recommendation-letters)
-  - [Research Drive](#research-drive)
-  - [IRB Guide](irb-transition.md)
-- [Funding](#funding)
-- [Undergraduate research](#undergraduate-research)
-- [FAQ](#faq-and-who-to-ask)
-
 # Introduction
 
 Welcome to the Adult Development & Decision Lab ([ADD Lab](http://lighthall-lab.github.io)) manual. This manual was developed by the Lab Manager, [Ian A Dalton](http://ianad.me/). It is intended to represent a comprehensive vision for how the lab should function and to complement existing UCF Department of Psychology policies (which take precedence). I expect that more information will be added and some sections will be revised as the lab grows and develops. If you have any comments or suggestions regarding the contents of this manual, please tell me.
 
 The ADD Lab manual was inspired by other similar works, and it's structure is directly based on the [MemoLab manual](http://github.com/memobc/memolab-manual) by [Maureen Ritchey](http://github.com/ritcheym). This work is licensed under a [CC Attribution 4.0 license](http://creativecommons.org/licenses/by/4.0/).
 
+Below, you will find a [Table of Contents](#table-of-contents), with links to the relevant sections and subsections of this manual.
+
+# Table of Contents
+- [Introduction](#introduction)
+- [Lab member expectations & responsibilities](responsibilities.md)
+  - [Everyone](responsibilities.md#everyone)
+  - [PI](responsibilities.md#pi)
+  - [Postdocs](responsibilities.md#postdocs)
+  - [Graduate students](responsibilities.md#graduate-students)
+  - [Lab managers](responsibilities.md#lab-managers)
+  - [Other full-time staff](responsibilities.md#other-full-time-staff)
+  - [Undergraduate students](responsibilities.md#undergraduate-students)
+- [Code of conduct](#code-of-conduct)
+  - [General](#general)
+  - [Scientific integrity](#scientific-integrity)
+  - [Human subjects research](#human-subjects-research)
+- [Lab resources](resources.md)
+- [General policies](policies.md)
+  - [Hours](policies.md#hours)
+  - [Meetings](policies.md#meetings)
+  - [Deadlines](policies.md#deadlines)
+  - [Presentations](policies.md#presentations)
+  - [Lab travel](policies.md#lab-travel)
+  - [Recommendation letters](policies.md#recommendation-letters)
+  - [Research Drive](policies.md#research-drive)
+- [IRB Transition Guide](irb-transition.md)
+- [Funding](#funding)
+- [Undergraduate research](#undergraduate-research)
+- [FAQ](#faq-and-who-to-ask)
+
 # Code of conduct
 ## General
-Many topics were covered already in the [Lab member expectations & responsibilities](#lab-member-expectations-and-responsibilities) section.
-
-**In addition:**
-
 All members of the lab, along with visitors, are expected to agree with the following code of conduct. We will enforce this code as needed. We expect cooperation from all members to help ensuring a safe environment for everybody. Please also see the University of Central Florida [Discriminatory Harassment Policy]().
 
 ### The Quick Version
@@ -53,7 +51,7 @@ If you are being harassed, notice that someone else is being harassed, or have a
 
 We expect members to follow these guidelines at any lab-related event.
 
->This section was adapted from: [code of conduct](http://ivory.idyll.org/lab/coc.html). Original source and credit: http://2012.jsconf.us/#/about & The Ada Initiative. This work is licensed under a Creative Commons Attribution 3.0 Unported License.
+> This section was adapted from: [code of conduct](http://ivory.idyll.org/lab/coc.html). Original source and credit: http://2012.jsconf.us/#/about & The Ada Initiative. This work is licensed under a Creative Commons Attribution 3.0 Unported License.
 
 ## Scientific integrity
 ### Reproducible research
