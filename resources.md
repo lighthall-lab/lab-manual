@@ -31,12 +31,14 @@ The "Research Drive" is our **secure UCF server** that houses all of our experim
 ### Accessing the Research Drive 
 Your personal computers are also capable of accessing this data, so long as you are connected to the `UCF_WPA2` wireless network, or use the [UCF VPN](https://www.cst.ucf.edu/wp-content/uploads/service%20desk/NewVPN_user.pdf) to connect to the university network from home. When connected to the UCF network, you can access the Research Drive in two ways:
 - Direct Navigation
-	- In your computer's file browser, type the address directly into the address bar: `\\net1110.net.ucf.edu\research2\lighthall_lab\`
+	- In your computer's file browser, type the address directly into the address bar:
+		- `\\net1110.net.ucf.edu\research2\lighthall_lab\`
 	- Sign in with your UCF NID and NID password
 - Mount as a Network Drive
 	- Windows
 		1. Right click on "This PC" and select "Map network drive..."
-		2. Choose a drive letter (We use "R:") and enter the server address: `\\net1110.net.ucf.edu\research2\lighthall_lab\`
+		2. Choose a drive letter (We use "R:") and enter the server address:
+			- `\\net1110.net.ucf.edu\research2\lighthall_lab\`
 	- Mac
 		1. ***[to-add]**: instructions for mounting network share on Mac OS
 		
