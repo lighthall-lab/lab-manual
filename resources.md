@@ -26,7 +26,7 @@ Google Calendar is used to host a general lab calendar (AD&D Lab), as well as ca
 The AD&D Lab folder on Google Drive is used to store documents and files for general lab use (e.g., IRB documents, stimuli, pdfs, etc). It can also be used for some forms of non-identifiable [data](#data-management).
 
 ## Research Drive
-Almost all of our data is stored on a **secure UCF server**, the "[Research Drive](resources.md#research-drive". You should have full access to this drive once the lab managers have completed your orientation and onboarding procedures, and it should appear as the R:/ drive on any of the lab's IT-managed computers.
+The "Research Drive" is our **secure UCF server** that houses all of our experiments, including stimuli, data, and analyses. You should have full access to this drive once the lab managers have completed your orientation and onboarding procedures, and it should appear as the R:/ drive on any of the lab's IT-managed computers.
 
 ### Accessing the Research Drive 
 Your personal computers are also capable of accessing this data, so long as you are connected to the `UCF_WPA2` wireless network, or use the [UCF VPN](https://www.cst.ucf.edu/wp-content/uploads/service%20desk/NewVPN_user.pdf) to connect to the university network from home. When connected to the UCF network, you can access the Research Drive in two ways:
@@ -41,7 +41,7 @@ Your personal computers are also capable of accessing this data, so long as you 
 		1. ***[to-add]**: instructions for mounting network share on Mac OS
 		
 ### Structure of the Research Drive
-I encourage you to become very familiar the Research Drive's directory structure - you will be accessing it quite often. Our lab's directory on the drive has a structure like this:
+I encourage you to become very familiar the Research Drive's directory structure - you will be accessing it quite often. Our allocation is structured like this:
 - `_archive`
   - For old stimuli, datasets, analyses, out-of-date code, or anything else that's not being used anymore.
   - Deleting files from the Research Drive cannot be undone (*there's no "Recycle Bin"!*), so moving things here that you don't need anymore is the preferred method for disposal unless you are **1000% sure** you won't need it anymore.
