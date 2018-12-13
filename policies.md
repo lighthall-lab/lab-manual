@@ -47,4 +47,11 @@ Almost all of our data is stored on a **secure UCF server**, the "[Research Driv
 ## Data sharing
 Not only is data-sharing the right thing to do, we are actually required to do so for any dataset that was funded by the NIH. We will make these datasets publicly available within a year of publishing the first paper from the dataset. You should also be prepared to share any scripts that you used in your published processing & analysis pipeline. Currently, the best option for sharing smaller datasets seems to be the [Open Science Framework](https://osf.io/), the best option for sharing MRI datasets is [OpenFMRI](https://openfmri.org/), and I don't yet know what is the best option for sharing EEG datasets.
 
+## Money management
+For some of our studies we will pay our subjects for their participation, and we must always maintain good records of the inflow and outflow of that money. Cash should be stored for each study separately, securely in locked boxes or cabinets, with a well-maintained log of the subjects who were paid, when, and how much. We should never mix the cash for any two studies and the logs must always be considered isolated "accounts".
+
+If you are leading a study for which you are paying participants, you are primarily responsible for this record-keeping. Keep an eye on the amount of cash your study has on hand, with respect to the number of participants you have upcoming. Make sure you do not get into a situation where you are out of money and will not have enough to pay an upcoming participant, or worse yet, a participant who is participating *today*. 
+
+Assure that when the participants finish their sessions, they sign a receipt provided by Prapti *for that study* to confirm the amount, and that the time, date, amount, etc., is logged on your petty cash record. Make copies (preferably digital) of each receipt in case anything happens to the original. When your study needs more cash, make sure you have all of these logs together with your original copies of the participant receipts **before** you contact Prapti. Set up an appointment time with her *and keep it*, bringing all of these documents so she can square up her records with ours.
+
 [Return to Table of Contents](readme.md#table-of-contents)
