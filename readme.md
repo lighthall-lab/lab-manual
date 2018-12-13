@@ -110,7 +110,7 @@ TBD. Ask me some questions.
 | Name | Title | Phone | Email |
 | ---- | ----- | ----- | ----- |
 | Nichole Lighthall | | 407-823-2216 | Nichole.Lighthall@ucf.edu |
-| Office Assistants | | 407-823-4601 | |
+| | Office Assistants | 407-823-4601 | |
 | Prapti Patel | Senior Accountant |407-823-1011 | Prapti.Patel@ucf.edu |
 | Mikala Armioia | HFCP Program Assistant | 407-823-3919 | Mikala.Armioia@ucf.edu |
 | Julian Hale | Psychology Building Manager | 407-823-3933 | Julian.Hale@ucf.edu |
