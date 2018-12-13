@@ -106,4 +106,12 @@ If you're an undergraduate student and you want to pursue any of these options, 
 
 TBD. Ask me some questions.
 
+# Contacts
+| Name | Phone | Email |
+| :--- | ----: | :---- |
+| Nichole Lighthall | 407-823-2216 | Nichole.Lighthall@ucf.edu |
+| Prapti Patel | 407-823-1011 | Prapti.Patel@ucf.edu |
+| Mikala Armioia | 407-823-3919 | Mikala.Armioia@ucf.edu |
+| Office Assistants | 407-823-4601 | |
+
 [Return to Table of Contents](readme.md#table-of-contents)
