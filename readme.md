@@ -108,7 +108,7 @@ TBD. Ask me some questions.
 
 # Contacts
 | Name | Phone | Email |
-| :--- | ----: | :---- |
+| ---- | ----- | ----- |
 | Nichole Lighthall | 407-823-2216 | Nichole.Lighthall@ucf.edu |
 | Prapti Patel | 407-823-1011 | Prapti.Patel@ucf.edu |
 | Mikala Armioia | 407-823-3919 | Mikala.Armioia@ucf.edu |
