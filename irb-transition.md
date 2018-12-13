@@ -1,7 +1,10 @@
+# Questions
+1. Will our studies that transfer into the new system change determination status if they fall under the new exempt categories (i.e., Brief Benign Behavioral Interventions)?
+2. What exactly does exempt status entail for studies in this category, in terms of record-keeping and consent forms?
+
 # IRB training
 ## Project Wahoo
-- Information Central: http://wahoo.research.ucf.edu/
-
+- Training Powerpoint: http://wahoo.research.ucf.edu/files/IRB-System-and-Toolkit-Updates.pdf
 1. Toolkit changes
 2. *Common Rule* changes
 3. Software
