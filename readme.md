@@ -108,7 +108,7 @@ TBD. Ask me some questions.
 
 # Contacts
 | Name | Title | Phone | Email |
-| ---- | ----- | ----- |
+| ---- | ----- | ----- | ----- |
 | Nichole Lighthall | \- | 407-823-2216 | Nichole.Lighthall@ucf.edu |
 | Office Assistants | \- | 407-823-4601 | \- |
 | Prapti Patel | Senior Accountant |407-823-1011 | Prapti.Patel@ucf.edu |
