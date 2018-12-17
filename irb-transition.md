@@ -1,6 +1,7 @@
 # Questions
 1. Will our studies that transfer into the new system change determination status if they fall under the new exempt categories (i.e., Brief Benign Behavioral Interventions)?
 2. What exactly does exempt status entail for studies in this category, in terms of record-keeping and consent forms?
+3. We have had issues with personnel leaving the lab and being removed from our protocols via amendment, only for them to continue appearing on our reviewers' end, eventually culminating in our submissions being "on hold until human subjects training is renewed". Is Huron expected to handle the interface between researchers' and reviewers' view of submissions any better than the old system?
 
 # IRB training
 ## Project Wahoo
