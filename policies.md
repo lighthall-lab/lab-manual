@@ -11,13 +11,16 @@ In addition to poking my head into the lab regularly, I will be in my office wit
 
 ## Meetings
 ### Weekly lab meetings
-Weekly lab meetings will be focused on project presentations and going over new data or methods. Lab meetings will last no longer than 1 hour. If at the end of 1 hour, we need more time to discuss something, we will either take a break before continuing or schedule another meeting. Lab meeting agendas and notes will be maintained in the `#lab-meetings` channel on Slack. All full-time lab members are expected to attend the weekly lab meeting. All part-time lab members (including undergraduates) are welcome to attend but attendance is not required.
+We will alternate between having a biweekly **lab meeting** and a biweekly **journal club**. Lab meetings will be focused on project presentations, practice talks and going over new data or methods. Lab meetings will last no longer than 1 hour. If at the end of 1 hour, we need more time to discuss something, we will either take a break before continuing or schedule another meeting. Lab meeting agendas and notes will be maintained in the `#lab-meetings` channel on Slack. All full-time lab members are expected to attend the weekly lab meeting. All part-time lab members (including undergraduates) are welcome to attend but attendance is not required.
+
+#### Journal clubs 
+The journal club will be focused on discussing new and/or important research articles. All undergraduates are expected to sign up for at least one journal club each semester. Journal club sign up lists will be set in the Google Drive docuemnt for Weekly Lab Meetings. Undergraduates will also be expected to select an article to disuss during the journal club. Articles can either be selected from the Journal Club meetings folder on the Google Drive, or a student can select another article of their choosing, as long as it's relevant, 
+no older than 2 years and is a peer-reviewed journal. Journal club topics will be set in the `#papers` channel on Slack. 
+
 ### Individual meetings
 At the beginning of each semester, I will set a schedule to meet with each full-time lab member for one hour a week. If we do not have anything to discuss in a given week, that's fine; we can just say hi or cancel it.
-### Journal clubs & Lab meetings
-We will alternate between having a biweekly **lab meeting** and a biweekly **journal club**. Lab meeting topics will include project presentations, article discussions, and practice talks. The journal club will be focused on discussing new and/or important research articles. Some weeks, we'll discuss a single article that everyone has read; other weeks, we'll each read a paper on a specific theme and do mini-presentations on each paper. Journal club topics will be set in the `#papers` channel on Slack.
 
-As with our internal lab meetings, all full-time lab members are expected to attend, and part-time lab members are invited but not required to attend.
+
 
 ## Deadlines
 If you need something from me by a particular deadline, please inform me as soon as you are aware of the deadline so that I can allocate my time as efficiently as possible. I will expect at least one week's notice, but I greatly prefer two weeks' notice. I will *require* two weeks' notice for letters of recommendation. If you do not adhere to these guidelines, I may not be able to meet your deadline. Please note that this applies to reading/ commenting on abstracts, papers, and manuscripts, in addition to filling out paperwork, etc.
@@ -27,17 +30,12 @@ I encourage you to seek out opportunities to present your research to the depart
 
 There is a lab template for posters that you are free to modify as you see fit, but the header and general aesthetic should stay similar. If you have ideas for how to improve the poster template, please show the lab so we can decide whether to implement them as a group. This will help increase the visibility of our lab at conferences. (Don't believe me? Check out the various lab "walls" at the next conference you attend.) There is no template for talks, and I encourage you to use your own style of presentation as long as it is polished and clear.
 
-### A note on colors
-The PRC is red,<br>
-the PHC is blue.<br>
-All other colors<br>
-are up to you.<br>
 
 ## Lab travel
 The lab will typically pay for full-time lab members to present their work at major conferences (e.g., SFN, CNS, CEMS). In general, the work should be "new" in that it has not been presented previously, and it should be appropriate for the conference. When I set our grant budgets, I estimate $1500 per trip, so your reimbursable costs should be around that amount or less. Meal costs will be reimbursed for people who are presenting work from the lab. The lab will also pay for new grad students and postdocs to attend one conference in their first year in lab. If travel expenses are being paid off of a grant, additional restrictions may apply (talk to me). All of these guidelines, of course, depend on the availability of funds.
 
 ## Recommendation letters
-Letters of recommendation are one of the many benefits of working in a research lab. I will write a letter for any student or lab member who has spent at least one year in the lab. Letters will be provided for shorter-term lab members in exceptional circumstances (e.g., new graduate students or postdocs applying for fellowships). I maintain this policy because I do not think that I can adequately evaluate someone who has been around for less than a year.
+Letters of recommendation are one of the many benefits of working in a research lab. I will write a letter for any student or lab member who has spent at least one year in the lab. Letters will be provided for shorter-term lab members in exceptional circumstances (e.g., new graduate students or postdocs applying for fellowships). I maintain this policy because I do not think that I can adequately evaluate someone who has been around for less than a year. 
 
 To request a letter of recommendation, please adhere to the deadline requirements described above. Send me your current CV and any relevant instructions for the contents of the letter. If you are applying for a grant, send me your specific aims or a short summary of the grant. In some but not all cases, I may ask you to draft a letter, which I will then revise to be consistent with my evaluation. This will ensure that I do not miss any details about your work that you think are relevant to the position you're applying for, and it will also help me complete the letter in a timely fashion.
 
