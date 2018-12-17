@@ -36,7 +36,7 @@ Below, you will find a [Table of Contents](#table-of-contents), with links to th
 
 # Code of conduct
 ## General
-All members of the lab, along with visitors, are expected to agree with the following code of conduct. We will enforce this code as needed. We expect cooperation from all members to help ensuring a safe environment for everybody. Please also see the University of Central Florida [Discriminatory Harassment Policy]().
+All members of the lab, along with visitors, are expected to agree with the following code of conduct. We will enforce this code as needed. We expect cooperation from all members to help ensuring a safe environment for everybody. Please also see the University of Central Florida [Discrimination, Harassment, and Related Interpersonal Violence Policy](https://policies.ucf.edu/documents/2-004.1ProhibitionOfDiscriminationHarassmentAndRelatedInterpersonalViolence.pdf).
 
 ### The Quick Version
 
