@@ -4,9 +4,14 @@
 
 # General policies
 ## Hours
-One of the benefits of a career in academic research is that it is typically more flexible than other kinds of jobs. However, you should still treat it like a job. If you are employed for 40 hours a week, you should be working 40 hours a week. This applies to lab staff members (the lab manager and other research assistants) and postdocs. You are not required to work over-time. For graduate students, I recognize that you have other demands on your time like classes and TA-ing but still expect to see you in lab, doing research, often.
 
-Lab staff members are expected to keep regular office hours (e.g., somewhere in the ballpark of 9a-5p). Graduate students and postdocs have more flexibility. However, in order to encourage lab interaction, I expect that all lab members will be in the lab, at minimum, 10 hours per week.
+The lab can be considered "open" from 9a - 5p on weekdays, except in the case of university holidays as listed on the [UCF Academic Calendar](https://calendar.ucf.edu/). All lab members are welcome in the main lab office during these normal business hours. 
+
+Lab staff (lab managers, etc.) are expected to keep normal business hours for the most part. Graduate students and postdocs have more flexibility. When active during semesters, undergraduate research assistants are expected to coordinate with the lab manager(s), graduate students, and postdocs to determine a [weekly schedule](resources.md#google-calendar) at a minimum of 10 hours per week, to encourage lab interaction and to be sure the lab is adequately staffed for the day-to-day.
+
+We encourage all lab members to be mindful of safety if staying in the lab past business hours. Especially for students, it is often tempting to stay late to continue working. We have no policy against this. UCF is a very safe campus, but at night it can be quiet and dark. Please be aware of the availability of the following resources on campus, should you ever need them:
+- [SAFE Escort Patrol Services](https://police.ucf.edu/safe-escort-patrol-services)
+- [Emergency Blue Light Phones](http://emergency.ucf.edu/light_phones.html)
 
 ### PI office hours
 In addition to poking my head into the lab regularly, I will be in my office with the door open for at least an hour every day that I'm on campus (most days). Feel free to interrupt me during that time. Because I am easily distracted, I ask that if my door is closed, send me a message or try me later rather than knock.
@@ -16,8 +21,7 @@ In addition to poking my head into the lab regularly, I will be in my office wit
 We will alternate between having a biweekly **lab meeting** and a biweekly **journal club**. Lab meetings will be focused on project presentations, practice talks and going over new data or methods. Lab meetings will last no longer than 1 hour. If at the end of 1 hour, we need more time to discuss something, we will either take a break before continuing or schedule another meeting. Lab meeting agendas and notes will be maintained in the `#lab-meetings` channel on Slack. All full-time lab members are expected to attend the weekly lab meeting. All part-time lab members (including undergraduates) are welcome to attend but attendance is not required.
 
 #### Journal clubs 
-The journal club will be focused on discussing new and/or important research articles. All undergraduates are expected to sign up for at least one journal club each semester. Journal club sign up lists will be set in the Google Drive docuemnt for Weekly Lab Meetings. Undergraduates will also be expected to select an article to disuss during the journal club. Articles can either be selected from the Journal Club meetings folder on the Google Drive, or a student can select another article of their choosing, as long as it's relevant, 
-no older than 2 years and is a peer-reviewed journal. Journal club topics will be set in the `#papers` channel on Slack.
+The journal club will be focused on discussing new and/or important research articles. All undergraduates are expected to sign up for at least one journal club each semester. Journal club sign up lists will be set in the Google Drive docuemnt for Weekly Lab Meetings. Undergraduates will also be expected to select an article to disuss during the journal club. Articles can either be selected from the Journal Club meetings folder on the Google Drive, or a student can select another article of their choosing, as long as it's relevant, no older than 2 years and is a peer-reviewed journal. Journal club topics will be set in the `#papers` channel on Slack.
 
 ### Individual meetings
 At the beginning of each semester, I will set a schedule to meet with each full-time lab member for one hour a week. If we do not have anything to discuss in a given week, that's fine; we can just say hi or cancel it.
