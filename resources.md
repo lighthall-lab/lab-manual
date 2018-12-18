@@ -3,14 +3,18 @@
 
 ## Slack
 
-Slack will be used as the primary means of lab communication, such as general lab announcements (`#-general`), sharing links, sharing and/or discussing papers (`#-papers`), and basically any message that can be sent without email. There's also a channel for keeping notes from our lab meetings (`#-lab-meetings`), as well as channels for specific projects (e.g. `#econdec`).
+Slack will be used as the primary means of lab communication, such as general lab announcements (`#-general`), sharing links, sharing and/or discussing papers (`#-papers`), and any day-to-day message that can be sent without email. There's also a channel for keeping notes from our lab meetings (`#-lab-meetings`), as well as channels for specific projects (e.g. `#econdec`).
 
-Try to keep each channel on topic, so that people can subscribe only to the channels that concern them. For messages to one person or a small group of people, use the direct message channels. Because we pay per Slack user, part-time RAs will be invited as "guests" to the `#undergrads` channel; these users can also use direct messages.
+Try to keep each channel on topic, so that people can subscribe only to the channels that concern them. For messages to one person or a small group of people, use the direct message channels.
 
-Full-time lab members should install Slack to their computers and/or phones. Part-time lab members should check Slack regularly. I get Slack updates on my phone and have do-not-disturb mode enabled for evening and night hours (meaning I will not get your messages then); I encourage you to do the same.
+All lab members should install Slack to their computers and/or phones and check it regularly. Full-time lab members should also enable notifications for "Direct messages, mentions, & keywords", and select "Notify me about threads I'm following". Please consider allowing Slack updates on your phone and setting do-not-disturb mode for evening and night hours. You are not expected to *always* be reachable, but this configuration should be a reasonable middle-ground.
 
 ## Email
-When it's appropriate to use email instead of Slack, such as when there is a lot to say at once or a long-form one-on-one discussion, such as negotiating lab hours, etc., feel free to do so. We also have a lab email account that goes to only the lab manager(s) and PhD students: `lighthall-lab@gmail.com`.
+Although Slack is convenient for day-to-day communication and group discussions, we should consider it unsecure. Any sensitive communications should be conducted via secure official channels, which is where your UCF.edu email address comes in. If you are  unsure whether it is appropriate to share something in Slack, feel free to use UCF Email. Communications that are only appropriate to have through secure Email might include:
+- exchanges of anyone's confidential or otherwise sensitive information, include your own and other lab members'
+- identifiable information about participants (names, contact info, etc.), especially in tandem with scheduling information
+
+Other email address domains such as Gmail, etc., should also be considered unsecure for the above communications. We do have a lab email account that goes to only the lab manager(s), PhD students, and Nichole: `lighthall-lab@gmail.com`. 
 
 ## GitHub
 
@@ -20,11 +24,11 @@ Hosted on the lab's GitHub, you'll find a tutorial repository on the basics of u
 
 ## Google Calendar
 
-Google Calendar is used to host a general lab calendar (AD&D Lab), as well as calendars for the in-lab testing rooms.
+Google Calendar is used to host a general lab calendar (AD&D Lab), as well as calendars for the in-lab testing rooms and for project scheduling.
 
 ## Google Drive
 
-The AD&D Lab folder on Google Drive is used to store documents and files for general lab use (e.g., IRB documents, stimuli, pdfs, etc). It can also be used for some forms of non-identifiable [data](#data-management).
+The AD&D Lab folder on Google Drive is used to store documents and files for general use and remote access. It contains a running schedule of lab meeting presenters and topics, and a roster with lab members' contact information. This is primarily so that you can access this information from your mobile devices as needed; you are encouraged to install the Google Drive app if you do not already use it.
 
 ## Research Drive
 The "Research Drive" is our **secure UCF server** that houses all of our experiments, including stimuli, data, and analyses. You should have full access to this drive once the lab managers have completed your orientation and onboarding procedures, and it should appear as the R:/ drive on any of the lab's IT-managed computers.
