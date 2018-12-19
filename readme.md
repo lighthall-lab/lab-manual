@@ -7,8 +7,9 @@ The AD&D Lab manual was inspired by other similar works, and it's structure is b
 Below, you will find a [Table of Contents](#table-of-contents), with links to the relevant sections and subsections of this manual.
 
 # Table of Contents
+
+- [Start Here!](onboarding.md)
 - [Code of Conduct](code-of-conduct.md)
-- [Onboarding](onboarding.md)
 - [Responsibilities](responsibilities.md)
 - [Policies](policies.md)
 - [Procedures](procedures.md)
