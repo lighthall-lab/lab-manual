@@ -16,6 +16,7 @@ Below, you will find a [Table of Contents](#table-of-contents), with links to th
 
 ## Contacts
 This table contains the contact information of some critical personnel who you might be pointed to for things not covered in this manual.
+
 | Name | Title | Phone | Email |
 | ---- | ----- | ----- | ----- |
 | Nichole Lighthall | | 407-823-2216 | Nichole.Lighthall@ucf.edu |
