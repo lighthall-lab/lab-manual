@@ -99,9 +99,9 @@ Undergraduate Researchers: Faculty advisor should serve as the PI and use [HRP-2
     
 ## Software
 1. Navigation
-2. Creating a study(#creating-a-new-study)
-3. Request for Clarifications
-4. Mod / CR
+2. [Creating a study](#creating-a-new-study)
+3. [Request for Clarifications](#request-for-clarifications)
+4. [Mod / CR](#modification-continuing-review)
 5. RNIs
 
 ### Creating a new study
