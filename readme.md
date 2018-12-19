@@ -8,13 +8,13 @@ Below, you will find a [Table of Contents](#table-of-contents), with links to th
 
 # Table of Contents
 
-## Start here!
+### Start here!
 - [Undergraduate Students](onboarding.md#undergraduate-students)
 - [Graduate Students](onboarding.md#graduate-students)
 - [Lab Staff](onboarding.md#lab-staff)
 - [Postdocs](onboarding.md#postdocs)
 
-## Already know what you're looking for?
+### Already know what you're looking for?
 - [Code of Conduct](code-of-conduct.md)
 - [Responsibilities](responsibilities.md)
 - [Policies](policies.md)
