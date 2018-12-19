@@ -101,7 +101,7 @@ Undergraduate Researchers: Faculty advisor should serve as the PI and use [HRP-2
 1. Navigation
 2. [Creating a study](#creating-a-new-study)
 3. [Respond to Clarifications](#respond-to-clarifications)
-4. [Mod / CR](#modification-continuing-review)
+4. [Mod CR](#modification-continuing-review)
 5. RNIs
 
 ### Creating a new study
@@ -190,5 +190,5 @@ IRB responses land in your [inbox](#my-inbox). If you need to modify forms like 
 1. Notes, supporting documents
     - supporting documents is only if that is the way you're tracking the requested modifications, not for attaching updated forms that go in the smartform.
     
-### Modification/Continuing Review
+### Modification / Continuing Review
 This process is a unified smartform. For converted studies from the old system, the very first time we submit a **continuing review** we will need to classify it as a **Modification/Continuing Review** in order to bring in certain data from the previous system. Not a lot is actually being automatically migrated, so things like study forms will need to be reuploaded as the new form templates.
