@@ -101,5 +101,19 @@ I encourage you to become very familiar the Research Drive's directory structure
     - `derivatives`
       - All analysis files, intermediary data transformations, figures, etc., should go here.
       - Data pipelines should only **ever** write data into this folder or its subfolders, and should be kept well-organized and tidy just as the `code` is.
-      
+
+# University, College, and Department Resources
+## Graduate Students
+- college of graduate studies
+- workshops
+- contacts
+- program resources
+- etc
+## Undergraduate Students
+- student involvement
+- undergraduate research
+- psych advising
+- career services
+- etc
+
 [Return to Table of Contents](readme.md#table-of-contents)
