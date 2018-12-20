@@ -19,8 +19,9 @@
 
 # Undergraduate Students
 ## Getting Started
-1. Scheduling your weekly hours
-1. All of the [above](#everyone), plus:
+1. Scheduling your weekly hours.
+    - 10 hours per week minimum. Prefer 2-3 shifts of 3-5 hours.
+2. All of the [above](#everyone), plus:
 
 ### Volunteer documentation
 **[under construction]**
@@ -42,6 +43,7 @@ The other option for documenting our volunteers is with the university's Volunte
 
 # Graduate Students
 ## Getting Started
+**[under construction]**
 1. All of the [above](#everyone)
 2. Program procedures, people to reach out to, Table of Contacts, etc.,
 
