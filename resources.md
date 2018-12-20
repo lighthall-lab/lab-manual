@@ -106,9 +106,11 @@ I encourage you to become very familiar the Research Drive's directory structure
 
 ## Graduate Students
 - [College of Graduate Studies](https://graduate.ucf.edu/)
-- [Pathways to Success workshops](https://graduate.ucf.edu/pathways-to-success/)
-- Important Contacts
+	- [Pathways to Success workshops](https://graduate.ucf.edu/pathways-to-success/)
+	- [Funding Opportunities](https://graduate.ucf.edu/funding/)
+- [Career Services](https://career.ucf.edu/)
 - HFCP Program Resources
+	- Important Contacts
 - etc.?
 
 ## Undergraduate Students
