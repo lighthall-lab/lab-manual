@@ -45,7 +45,7 @@ Your personal computers are also capable of accessing this data, so long as you 
 		2. Choose a drive letter (We use "R:") and enter the server address:
 			- `\\net1110.net.ucf.edu\research2\lighthall_lab\`
 	- Mac
-		1. ***[to-add]**: instructions for mounting network share on Mac OS***
+		1. ***[to-add]**: instructions for mounting network share on Mac OS*
 		
 ### Structure of the Research Drive
 I encourage you to become very familiar the Research Drive's directory structure - you will be accessing it quite often. Our allocation is structured like this:
@@ -103,7 +103,7 @@ I encourage you to become very familiar the Research Drive's directory structure
       - Data pipelines should only **ever** write data into this folder or its subfolders, and should be kept well-organized and tidy just as the `code` is.
 
 # University, College, and Department Resources
-
+**[under construction]**
 ## Graduate Students
 - [College of Graduate Studies](https://graduate.ucf.edu/)
 	- [Pathways to Success workshops](https://graduate.ucf.edu/pathways-to-success/)
@@ -120,7 +120,9 @@ I encourage you to become very familiar the Research Drive's directory structure
 - etc.?
 
 ### Undergraduate research
-***[to-add]: information about PSY 4912 and research-for-credit, etc.***
+**[under construction]**
+
+***[to-add]**: information about fellowships, presentation resources, undergraduate opportunities, conferences, etc.*
 
 Undergraduate research assistants play an important role in our lab, and we have a few opportunities for them to earn money or credit for their contributions. Because these opportunities require a certain degree of commitment from both the student and the lab, we generally reserve them for students who have already spent at least one semester volunteering in lab. If this policy would prevent you from being able to work in lab, please talk to me or the lab manager because we want all students to be able to pursue their research interests.
 

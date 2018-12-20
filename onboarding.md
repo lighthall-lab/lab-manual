@@ -20,6 +20,8 @@
 1. Scheduling your weekly hours
 1. All of the [above](#everyone), plus:
 ### Volunteer documentation
+**[under construction]**
+***[to-add]:** links to forms*
 We are required to document our volunteers every semester. For students, the preferred method is to enroll you in **PSY 4912 Directed Independent Research**.
 
 PSY 4912 is a course which appears on your transcript, for 0-3 credit hours, per your preference. For the most part, you should take 0 credits. This will not impact your tuition bill, *so long as you are taking other classes*. If you are not taking other classes, such as during a summer semester, you will incur enrollment fees and you should **not** take PSY 4912.
@@ -27,8 +29,6 @@ PSY 4912 is a course which appears on your transcript, for 0-3 credit hours, per
 If you are interested in taking credit hours for your time working in the lab, you should discuss this with the lab manager(s) and with Nichole to determine what expectations there will be for your output over the semester. You should also be aware that you will incur the normal credit hour costs for doing so. This option is only recommended for students who need to fill credit hours for degree or financial aid purposes, and have a project in mind to work on consistently throughout the semester. 
 
 The other option for documenting our volunteers is with the university's Volunteer Agreement Forms. During Summer semesters, any undergraduates working in the lab should be documented this way.
-
-***[to-add]:** links to forms*
 
 ## Key Information for Undergraduate Students
 - All of the [above](#key-information-for-everyone)
