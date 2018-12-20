@@ -105,17 +105,17 @@ I encourage you to become very familiar the Research Drive's directory structure
 # University, College, and Department Resources
 
 ## Graduate Students
-- college of graduate studies
-- workshops
-- contacts
-- program resources
-- etc
+- [College of Graduate Studies](https://graduate.ucf.edu/)
+- [Pathways to Success workshops](https://graduate.ucf.edu/pathways-to-success/)
+- Important Contacts
+- HFCP Program Resources
+- etc.?
 
 ## Undergraduate Students
-- student involvement
-- psych advising
-- career services
-- etc
+- [Office of Student Involvement](https://osi.ucf.edu/)
+- [Office of Undergraduate Research](https://our.ucf.edu/)
+- [Career Services](https://career.ucf.edu/)
+- etc.?
 
 ### Undergraduate research
 ***[to-add]: information about PSY 4912 and research-for-credit, etc.***
