@@ -3,6 +3,7 @@
     - The new categories will be applied to new reviews submitted after 01/21/19 with all the new forms. Studies that are already sorted into Expedited review categories would stay in expedited, unless you do a whole resubmission with all the new forms.
 2. What exactly does exempt status entail for studies in this category, in terms of record-keeping and consent forms?
 3. We have had issues with personnel leaving the lab and being removed from our protocols via amendment, only for them to continue appearing on our reviewers' end, eventually culminating in our submissions being "on hold until human subjects training is renewed". Is Huron expected to handle the interface between researchers' and reviewers' view of submissions any better than the old system?
+    - there is no reason to expect this will be a problem. IRB thinks this was a quirk of the old system being built on top of an even older legacy system.
 
 # IRB training
 ## Project Wahoo
@@ -138,7 +139,8 @@ Smartform very much like UF IRB
     3. include any vulnerable populations, or
     4. department of navy affiliation
         5. citi certifications
-        - why is this under NAVY and not elsewhere
+        - why is this under NAVY and not elsewhere?
+        - oh, it is. on the study workspace you can see team members' training status. this section doesn't matter for us I think
     3. protected health information
     4. international research
     4. international traffic in arms regulations

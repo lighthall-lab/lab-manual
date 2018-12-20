@@ -7,15 +7,22 @@ The AD&D Lab manual was inspired by other similar works, and it's structure is b
 Below, you will find a [Table of Contents](#table-of-contents), with links to the relevant sections and subsections of this manual.
 
 # Table of Contents
+
+### Start here!
+- [Undergraduate Students](onboarding.md#undergraduate-students)
+- [Graduate Students](onboarding.md#graduate-students)
+- [Lab Staff](onboarding.md#lab-staff)
+- [Postdocs](onboarding.md#postdocs)
+
+### Already know what you're looking for?
 - [Code of Conduct](code-of-conduct.md)
-- [Onboarding](onboarding.md)
 - [Responsibilities](responsibilities.md)
 - [Policies](policies.md)
 - [Procedures](procedures.md)
 - [Resources](resources.md)
 - [IRB transition](irb-transition.md)
 
-## Contacts
+# Contacts
 This table contains the contact information of some critical personnel who you might be pointed to for things not covered in this manual.
 
 | Name | Title | Phone | Email |

@@ -45,7 +45,7 @@ Your personal computers are also capable of accessing this data, so long as you 
 		2. Choose a drive letter (We use "R:") and enter the server address:
 			- `\\net1110.net.ucf.edu\research2\lighthall_lab\`
 	- Mac
-		1. ***[to-add]**: instructions for mounting network share on Mac OS*
+		1. ***[to-add]**: instructions for mounting network share on Mac OS***
 		
 ### Structure of the Research Drive
 I encourage you to become very familiar the Research Drive's directory structure - you will be accessing it quite often. Our allocation is structured like this:
@@ -103,17 +103,32 @@ I encourage you to become very familiar the Research Drive's directory structure
       - Data pipelines should only **ever** write data into this folder or its subfolders, and should be kept well-organized and tidy just as the `code` is.
 
 # University, College, and Department Resources
+
 ## Graduate Students
-- college of graduate studies
-- workshops
-- contacts
-- program resources
-- etc
+- [College of Graduate Studies](https://graduate.ucf.edu/)
+	- [Pathways to Success workshops](https://graduate.ucf.edu/pathways-to-success/)
+	- [Funding Opportunities](https://graduate.ucf.edu/funding/)
+- [Career Services](https://career.ucf.edu/)
+- HFCP Program Resources
+	- Important Contacts
+- etc.?
+
 ## Undergraduate Students
-- student involvement
-- undergraduate research
-- psych advising
-- career services
-- etc
+- [Office of Student Involvement](https://osi.ucf.edu/)
+- [Office of Undergraduate Research](https://our.ucf.edu/)
+- [Career Services](https://career.ucf.edu/)
+- etc.?
+
+### Undergraduate research
+***[to-add]: information about PSY 4912 and research-for-credit, etc.***
+
+Undergraduate research assistants play an important role in our lab, and we have a few opportunities for them to earn money or credit for their contributions. Because these opportunities require a certain degree of commitment from both the student and the lab, we generally reserve them for students who have already spent at least one semester volunteering in lab. If this policy would prevent you from being able to work in lab, please talk to me or the lab manager because we want all students to be able to pursue their research interests.
+
+In addition to volunteering in lab, other research opportunities include:
+ 1. If you want to work in lab and earn course credit, you can sign up for independent study or undergraduate research ([link to info](). We will have to fill out a syllabus contract at the beginning of the semester. Typically you would be in lab for at least 10 hours a week, and you would also be required to attend lab meetings, present at one of them, and write a short statement about your experiences at the end of the semester. Note that you can enroll in research courses multiple times.
+ 2. If you want to work in lab and earn money, you can apply for an [undergraduate research fellowship](). Candidates are expected to be academically strong (typically, GPA of 3.4 or above), and you would be expected to work 12-15 hours per week. Because these fellowships are intended to support your academic development, URF students will be strongly encouraged to participate in lab meetings. Note that if you have another UCF job, you're not allowed to work more than 20 hours per week during the academic year, and that includes the URF hours (which will also count toward work-study).
+ 3. If you want to work in lab, earn money, and are eligible for work-study, there may be other paid research opportunities available.
+
+If you're an undergraduate student and you want to pursue any of these options, talk to me or the lab manager.
 
 [Return to Table of Contents](readme.md#table-of-contents)
