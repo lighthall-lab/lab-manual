@@ -17,7 +17,8 @@
 5. `git commit -m "made some changes like blah blah blah"`
 
 ### Send your changes to GitHub
-6. `git push origin Analysis-Name`
+5. `git push --set-upstream origin`
+6. `git push origin`
 
 Once your analysis branch is in a stable state, checked and tested:
 1. Open a pull request
