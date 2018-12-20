@@ -1,5 +1,8 @@
 # Code of conduct
 ## General
+
+**[needs review]**
+
 All members of the lab, along with visitors, are expected to agree with the following code of conduct. We will enforce this code as needed. We expect cooperation from all members to help ensuring a safe environment for everybody. Please also see the University of Central Florida [Discrimination, Harassment, and Related Interpersonal Violence Policy](https://policies.ucf.edu/documents/2-004.1ProhibitionOfDiscriminationHarassmentAndRelatedInterpersonalViolence.pdf).
 
 ### The Quick Version
@@ -18,6 +21,9 @@ We expect members to follow these guidelines at any lab-related event.
 > This section was adapted from: [code of conduct](http://ivory.idyll.org/lab/coc.html). Original source and credit: http://2012.jsconf.us/#/about & The Ada Initiative. This work is licensed under a Creative Commons Attribution 3.0 Unported License.
 
 ## Scientific integrity
+
+**[needs review]**
+
 ### Reproducible research
 Reproducible research is research that can be exactly reproduced. This is related to replicability, in that it has to do with your ability to get the same results again, but it refers specifically to getting the same results given the *same set of data*. I expect that all of our research will be, at minimum, reproducible (I hope that it will also be replicable).
 
@@ -39,6 +45,9 @@ Authorship will be discussed prior to the beginning of a new project, so that ex
 For projects that required significant lab resources (e.g., fMRI or EEG studies or any other study requiring a great deal of time, money, or lab effort): Project "ownership" expires 3 years after data collection has ended (or whenever the original primary lead relinquishes their rights to the study, whichever comes first). At that point, I reserve the right to re-assign the project (or not) as needed to expedite publication. This policy is intended to avoid situations in which a dataset languishes for a long period of time, while still giving publication priority to the original primary lead.
 
 ## Human subjects research
+
+**[under construction]**
+
 Because we are engaged in human subjects research, it is of the *utmost importance* that we adhere to our approved IRB protocols. **All lab members must read and comply with the IRB consent form and protocol for any project that they are working on.** Lab members must also complete the CITI training and be added to the research personnel list before they can work with human subjects. If there are any questions about the protocols, or if you're not sure whether we have IRB approval to run your study, please ask the lab managers for clarification. If necessary, the lab managers can file an amendment to an existing protocol or create a new protocol.
 
 If you encounter any problems in the course of doing research that results in a negative outcome for the participant (e.g., if a participant becomes ill or upset, if there is an accident with the equipment, if there is a breach of confidentiality, etc), you should immediately seek assistance from the lab managers, the PhD student in charge of the project, if applicable, and/or Dr. Lighthall, in that order of priority. If none of those people are around, you must notify them *within 24 hours*, preferably as soon as possible. In some cases, we may need to report this information to the IRB and/or our funding agencies.

@@ -1,6 +1,7 @@
 [Return to Table of Contents](readme.md#table-of-contents)
 
 # Everyone
+
 ## Getting Started
 1. Complete the [Onboarding Survey](http://ucf.qualtrics.com/jfe/form/SV_1O1vnZagPjiplYh) to provide the lab your contact information and UCF identifcation numbers.
 3. Complete [CITI training modules](http://www.research.ucf.edu/documents/PDF/IRB%20CITI%20training.pdf) in order of priority:
@@ -9,6 +10,7 @@
     - When finished, export your completion certificates and send them to the lab manager(s). 
 4. Request a Sona researcher account
 5. Request Psychology door access control
+
 ## Key Information for Everyone
 - [Code of Conduct](code-of-conduct.md)
 - [Resources](resources.md)
@@ -17,9 +19,15 @@
 
 # Undergraduate Students
 ## Getting Started
-1. Scheduling your weekly hours
-1. All of the [above](#everyone), plus:
+1. Scheduling your weekly hours.
+    - 10 hours per week minimum. Prefer 2-3 shifts of 3-5 hours.
+2. All of the [above](#everyone), plus:
+
 ### Volunteer documentation
+**[under construction]**
+
+***[to-add]:** links to forms*
+
 We are required to document our volunteers every semester. For students, the preferred method is to enroll you in **PSY 4912 Directed Independent Research**.
 
 PSY 4912 is a course which appears on your transcript, for 0-3 credit hours, per your preference. For the most part, you should take 0 credits. This will not impact your tuition bill, *so long as you are taking other classes*. If you are not taking other classes, such as during a summer semester, you will incur enrollment fees and you should **not** take PSY 4912.
@@ -28,8 +36,6 @@ If you are interested in taking credit hours for your time working in the lab, y
 
 The other option for documenting our volunteers is with the university's Volunteer Agreement Forms. During Summer semesters, any undergraduates working in the lab should be documented this way.
 
-***[to-add]:** links to forms*
-
 ## Key Information for Undergraduate Students
 - All of the [above](#key-information-for-everyone)
 - [Undergraduate Student Responsibilities](responsibilities.md#undergraduate-students)
@@ -37,6 +43,7 @@ The other option for documenting our volunteers is with the university's Volunte
 
 # Graduate Students
 ## Getting Started
+**[under construction]**
 1. All of the [above](#everyone)
 2. Program procedures, people to reach out to, Table of Contacts, etc.,
 
@@ -60,6 +67,7 @@ The other option for documenting our volunteers is with the university's Volunte
 
 # Postdocs
 ## Getting Started
+
 ## Key Information for Postdocs
 - All of the [above](#key-information-for-everyone)
 - [IRB Transition](irb-transition.md)

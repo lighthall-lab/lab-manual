@@ -26,21 +26,29 @@ The journal club will be focused on discussing new and/or important research art
 ### Individual meetings
 At the beginning of each semester, I will set a schedule to meet with each full-time lab member for one hour a week. If we do not have anything to discuss in a given week, that's fine; we can just say hi or cancel it.
 
-
-
 ## Deadlines
 If you need something from me by a particular deadline, please inform me as soon as you are aware of the deadline so that I can allocate my time as efficiently as possible. I will expect at least one week's notice, but I greatly prefer two weeks' notice. I will *require* two weeks' notice for letters of recommendation. If you do not adhere to these guidelines, I may not be able to meet your deadline. Please note that this applies to reading/ commenting on abstracts, papers, and manuscripts, in addition to filling out paperwork, etc.
 
 ## Presentations
+
+**[under construction]**
+
+***[to-add]**: link to resources*
+
 I encourage you to seek out opportunities to present your research to the department, research community, or general public. If you are going to give a presentation (including posters and talks), please be prepared to give a practice presentation to the lab at least one week ahead of time. Not only will this help you feel comfortable with the presentation, it will give you time to implement any feedback. I care about practice presentations because a) presenting your work is a huge part of being successful in science and it's important that you practice those skills as often as possible, and b) you are going to be representing not only yourself but also the rest of the lab.
 
 There is a lab template for posters that you are free to modify as you see fit, but the header and general aesthetic should stay similar. If you have ideas for how to improve the poster template, please show the lab so we can decide whether to implement them as a group. This will help increase the visibility of our lab at conferences. (Don't believe me? Check out the various lab "walls" at the next conference you attend.) There is no template for talks, and I encourage you to use your own style of presentation as long as it is polished and clear.
 
-
 ## Lab travel
+
+**[under construction]**
+
 The lab will typically pay for full-time lab members to present their work at major conferences (e.g., SFN, CNS, CEMS). In general, the work should be "new" in that it has not been presented previously, and it should be appropriate for the conference. When I set our grant budgets, I estimate $1500 per trip, so your reimbursable costs should be around that amount or less. Meal costs will be reimbursed for people who are presenting work from the lab. The lab will also pay for new grad students and postdocs to attend one conference in their first year in lab. If travel expenses are being paid off of a grant, additional restrictions may apply (talk to me). All of these guidelines, of course, depend on the availability of funds.
 
 ## Recommendation letters
+
+**[under construction]**
+
 Letters of recommendation are one of the many benefits of working in a research lab. I will write a letter for any student or lab member who has spent at least one year in the lab. Letters will be provided for shorter-term lab members in exceptional circumstances (e.g., new graduate students or postdocs applying for fellowships). I maintain this policy because I do not think that I can adequately evaluate someone who has been around for less than a year. To ensure that I have enough time to complete your letter of recommendation in accordance to your application deadline, I ask for a minimum of two weeks notice before the letter is due. 
 
 To request a letter of recommendation, please adhere to the deadline requirements described above. Send me your current CV, statement of purpose, and any relevant instructions for the contents of the letter, including information for the program that you are applying for or other application materials. If you are applying for a grant, send me your specific aims or a short summary of the grant. In some but not all cases, I may ask you to draft a letter, which I will then revise to be consistent with my evaluation. This will ensure that I do not miss any details about your work that you think are relevant to the position you're applying for, and it will also help me complete the letter in a timely fashion.
