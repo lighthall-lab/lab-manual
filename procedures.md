@@ -39,5 +39,7 @@ Once your analysis branch is in a stable state, checked and tested:
     - https://ucf1.huronresearchsuite.com/IRB
 2. Address outstanding action items in your inbox
 3. Create New Study
-4. Use new IRB template forms:
-    - http://www.research.ucf.edu/compliance/IRB/Investigators/forms.html
+    1. Use new IRB template forms:
+        - http://www.research.ucf.edu/compliance/IRB/Investigators/forms.html
+    2. By default, add all present lab members as study personnel.
+    2. Add Department Chair and Nichole Lighthall as Ancillary Reviewers
