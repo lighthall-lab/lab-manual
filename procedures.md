@@ -31,3 +31,13 @@ Once your analysis branch is in a stable state, checked and tested:
     1. `git checkout master`
     2. `git pull origin master`
     3. `git branch -d analysis-name`
+
+## IRB Submissions
+
+### Huron Research Suite
+1. Log in using NID and NID password
+    - https://ucf1.huronresearchsuite.com/IRB
+2. Address outstanding action items in your inbox
+3. Create New Study
+4. Use new IRB template forms:
+    - http://www.research.ucf.edu/compliance/IRB/Investigators/forms.html
