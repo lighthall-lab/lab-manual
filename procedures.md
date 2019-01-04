@@ -9,23 +9,25 @@
 1. `git branch Analysis-Name`
 
 ### Modifying an ongoing analysis branch
-1. `git checkout Analysis-Name`
-3. `cp existing-analysis-file new-analysis-file`
-    1. `cp existing-other-analysis-file new-other-analysis-file`
-    - ~ make changes to your code ~
-4. `git add new-analysis file`
-    1. `git add new-other-analysis-file`
-5. `git commit -m "made some changes like blah blah blah"`
+1. Switch to the analysis branch:
+    - `git checkout Analysis-Name`
+2. Make changes to your code as appropriate.
+    - To use existing files: `cp existing-analysis-file new-analysis-file`
+3. When your code is complete, or in a good enough spot to save, commit changes to the branch:
+    - `git add new-analysis file`
+    - `git commit -m "made some changes like blah blah blah"`
 
 ### Send your changes to GitHub
-5. `git push --set-upstream origin Analysis-Name`
+- `git push --set-upstream origin Analysis-Name`
+
+When all of your commits are made, back up your analysis branch on GitHub. The analysis branch code doesn't have to be totally complete, but it should be relatively stable. This is necessary if you want to use GitHub issue tracking and code review.
 
 ### Open a Pull Request
 Once your analysis branch is in a stable state, checked and tested:
 1. Open a pull request
     1. Have the code reviewed by project head, discuss, etc.
-2. Project head merge the completed analysis branch into master and delete branch
-3. Finally: update the local repository with newly merged `origin master`
+2. Project head should merge the completed analysis branch into master and delete the analysis branch
+3. Finally: update the local repository with newly merged remote master branch
     1. `git checkout master`
     2. `git pull origin master`
     3. `git branch -d analysis-name`
