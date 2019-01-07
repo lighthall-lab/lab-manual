@@ -47,11 +47,16 @@ The lab will typically pay for full-time lab members to present their work at ma
 
 ## Recommendation letters
 
-**[under construction]**
-
 Letters of recommendation are one of the many benefits of working in a research lab. I will write a letter for any student or lab member who has spent at least one year in the lab. Letters will be provided for shorter-term lab members in exceptional circumstances (e.g., new graduate students or postdocs applying for fellowships). I maintain this policy because I do not think that I can adequately evaluate someone who has been around for less than a year. To ensure that I have enough time to complete your letter of recommendation in accordance to your application deadline, I ask for a minimum of two weeks notice before the letter is due. 
 
 To request a letter of recommendation, please adhere to the deadline requirements described above. Send me your current CV, statement of purpose, and any relevant instructions for the contents of the letter, including information for the program that you are applying for or other application materials. If you are applying for a grant, send me your specific aims or a short summary of the grant. In some but not all cases, I may ask you to draft a letter, which I will then revise to be consistent with my evaluation. This will ensure that I do not miss any details about your work that you think are relevant to the position you're applying for, and it will also help me complete the letter in a timely fashion.
+
+| School | Program/Field | Degree | Due Date |
+| --- | --- | --- | --- |
+| University of Central Florida | Human Factors & Cognitive Psychology | PhD | 12/01/19 |
+| University of Southern California | Psychology | PhD | 12/01/19 |
+| Georgia Institute of Technology | Psychology | PhD | 12/15/19 | 
+| Wright State University | Human Factors | PhD | 01/04/20 |
 
 ## Data Organization
 Almost all of our data is stored on a **secure UCF server**, the "[Research Drive](resources.md#research-drive)". You should have full access to this drive once the lab managers have completed your orientation and onboarding procedures, and it should appear as the R:/ drive on any of the lab's IT-managed computers.
