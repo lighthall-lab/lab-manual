@@ -12,12 +12,12 @@
 - Science is a marathon, not a sprint. Take personal time/ vacation when you need it and cultivate a life outside of the lab. Respect that other lab members also have a life outside of lab.
 - Communicate openly and respectfully with other members of the lab.
 - If you have an issue with another lab member that cannot be solved by talking with them about it, please talk with Nichole. If you have an issue with Nichole, please reach out to another member of the psychology department who can intervene (this can be the lab manager for smaller lab issues, or another faculty member or the department chair for more serious issues).
-- Academia may feel different from other types of jobs, but it is still a job. You should treat coming into lab with the same respect that you would treat any other position. See [Hours](#hours).
+- Academia may feel different from other types of jobs, but it is still a job. You should treat coming into lab with the same respect that you would treat any other position. See [Hours](policies.md#hours).
 
 ### Small picture
 - Do not come into the lab if you are sick. Stay home and get healthy, and don't risk getting others sick.
 - Notify the lab manager or me if you will be out, either due to illness or vacation. Make a note on the lab calendar. If you are sick and you had experiments or meetings scheduled that day, notify your participants or collaborators and reschedule.
-- You are not expected to come into lab on [staff holidays](). If you are being paid, then you *are* expected to come into lab during university breaks (except for staff holidays or if you're taking your [paid vacation time]().
+- You are not expected to come into lab on [staff holidays](https://calendar.ucf.edu). If you are being paid, then you *are* expected to come into lab during university breaks (except for staff holidays or if you're taking your paid vacation time.
 - Lock the doors to the lab if no one else is around, even if you're stepping out for a minute.
 - Keep the lab tidy. Food messes should be cleaned up promptly, dirty dishes taken home with you, and common areas should be kept free of clutter. Items left unattended may be cleaned, reclaimed, or recycled. If you're using lab equipment, put it away when you're done.
 - The dress code in academia is generally casual. My only request is that you look semi-professional when interacting with participants and when presenting your work. Jeans are fine, gym clothes and pajamas are not.
@@ -31,7 +31,7 @@ All of the [above](#everyone), plus you can expect me to:
 - Give you my perspective on academia and issues related to professional development
 - Support your career development by introducing you to other researchers in the field, writing [recommendation letters](#recommendation-letters) for you, providing you with opportunities to attend conferences when possible, and promoting your work in talks
 - Care about you as a person and not just a scientist
-- Maintain "office hours" for the lab. See [Hours](#hours).
+- Maintain "office hours" for the lab. See [Hours](policies.md#hours).
 
 ## Postdocs
 All of the [above](#everyone), plus you will be expected to:
