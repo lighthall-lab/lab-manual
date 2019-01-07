@@ -16,7 +16,7 @@
 
 ### Small picture
 - Do not come into the lab if you are sick. Stay home and get healthy, and don't risk getting others sick.
-- Notify the lab manager or me if you will be out, either due to illness or vacation. Make a note on the lab calendar. If you are sick and you had experiments or meetings scheduled that day, notify your participants or collaborators and reschedule.
+- Notify the lab manager(s) or Nichole if you will be out, either due to illness or vacation. Make a note on the lab calendar. If you are sick and you had experiments or meetings scheduled that day, notify your participants or collaborators and reschedule.
 - You are not expected to come into lab on [staff holidays](https://calendar.ucf.edu). If you are being paid, then you *are* expected to come into lab during university breaks (except for staff holidays or if you're taking your paid vacation time.
 - Lock the doors to the lab if no one else is around, even if you're stepping out for a minute.
 - Keep the lab tidy. Food messes should be cleaned up promptly, dirty dishes taken home with you, and common areas should be kept free of clutter. Items left unattended may be cleaned, reclaimed, or recycled. If you're using lab equipment, put it away when you're done.
@@ -24,10 +24,10 @@
 - Arrive to lab at least 15 minutes before you have any experiments scheduled, so that you will be there to greet the participants.
 
 ## PI
-All of the [above](#everyone), plus you can expect me to:
+All of the [above](#everyone), plus you can expect Nichole to:
 - Maintain a vision of where the lab is going
 - Provide the funding necessary to keep the lab going
-- Meet with you regularly to discuss your research projects. The definition of "regularly" may change over time or over the course of a project, but for now, I mean once a week or more often as needed.
+- Meet with you regularly to discuss your research projects. The definition of "regularly" may change over time or over the course of a project, but for now, means once a week or more often as needed.
 - Give you my perspective on academia and issues related to professional development
 - Support your career development by introducing you to other researchers in the field, writing [recommendation letters](#recommendation-letters) for you, providing you with opportunities to attend conferences when possible, and promoting your work in talks
 - Care about you as a person and not just a scientist
@@ -37,10 +37,10 @@ All of the [above](#everyone), plus you can expect me to:
 All of the [above](#everyone), plus you will be expected to:
 - Develop your own independent line of research
 - Mentor undergraduate and graduate students on their research projects, when asked or when appropriate
-- Apply for external funding (e.g., NRSA, K99). I will hire postdocs only when there is funding available for at least a year; however, applying for external funding is a valuable experience and, if awarded, it will release those dedicated funds for other purposes.
+- Apply for external funding (e.g., NRSA, K99). We will hire postdocs only when there is funding available for at least a year; however, applying for external funding is a valuable experience and, if awarded, it will release those dedicated funds for other purposes.
 - Apply for jobs (academic or industry) as soon as you are "ready" and/or by the end of beginning of your fourth year as a postdoc.
 - If you are planning to pursue a non-academic career, treat your postdoctoral research as seriously as you might if you were pursuing an academic career. We can discuss ways of making sure that you are getting the training you need, while still doing excellent research.
-- Remind me (the PI) that different scientific opinions can co-exist in the same lab!
+- Remind Nichole (the PI) that different scientific opinions can co-exist in the same lab!
 
 ## Graduate students
 All of the [above](#everyone), plus you will be expected to:
@@ -48,7 +48,7 @@ All of the [above](#everyone), plus you will be expected to:
 - Apply for external funding (e.g., NSF GRFP or NRSA). If nothing else, this is an extremely valuable experience, and it will release you from your TA-ing responsibilities.
 - Do some soul-searching as to what type of career you want to pursue, e.g., academic jobs that are research-focused or teaching-focused, non-academic jobs like data science or science writing. We can brainstorm ways of making sure you are getting the training that you need.
 - Work with a team of undergraduate students. This will speed up data collection and give you some experience with managing and mentoring a team.
-- Stay up-to-date (and keep me up-to-date) on any deadlines that you need to meet to fulfill departmental requirements.
+- Stay up-to-date (and keep Nichole up-to-date) on any deadlines that you need to meet to fulfill departmental requirements.
 - Prioritize time for research. It is easy to get caught up in coursework or TA-ing, but at the end of 5-ish years, you need to have completed a dissertation.
 
 ## Lab managers
