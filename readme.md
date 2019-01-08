@@ -2,7 +2,7 @@
 
 Welcome to the Adult Development & Decision Lab manual. This manual was developed by the Lab Manager, [Ian A Dalton](http://ianad.me/). It is intended to represent a comprehensive vision for how the lab should function and to complement existing UCF Department of Psychology policies (which take precedence). I expect that more information will be added and some sections will be revised as the lab grows and develops. If you have any comments or suggestions regarding the contents of this manual, please tell me.
 
-The AD&D Lab manual was inspired by other similar works, and it's structure is based on the [MemoLab manual](http://github.com/memobc/memolab-manual) by [Maureen Ritchey](http://github.com/ritcheym). This work is licensed under a [CC Attribution 4.0 license](http://creativecommons.org/licenses/by/4.0/).
+The AD&D Lab manual was inspired by other similar works, and its structure is based on the [MemoLab manual](http://github.com/memobc/memolab-manual) by [Maureen Ritchey](http://github.com/ritcheym). This work is licensed under a [CC Attribution 4.0 license](http://creativecommons.org/licenses/by/4.0/).
 
 Below, you will find a [Table of Contents](#table-of-contents), with links to the relevant sections and subsections of this manual.
 
