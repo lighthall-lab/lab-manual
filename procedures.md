@@ -1,3 +1,4 @@
+
 [Return to Table of Contents](readme.md#table-of-contents)
 
 # Procedures
@@ -42,3 +43,26 @@ Once your analysis branch is in a stable state, checked and tested:
         - http://www.research.ucf.edu/compliance/IRB/Investigators/forms.html
     2. By default, add all present lab members as study personnel.
     2. Add Department Chair and Nichole Lighthall as Ancillary Reviewers
+    
+## Recruitment and Scheduling
+  
+***[under construction]***
+    
+Once a study has been approved by the IRB, we can begin with recruiting participants, and scheduling sessions. Please note in your study's protocol whether your study will be using SONA, LLRN, or any other forms of recruitment. 
+
+### Recruitment
+
+#### SONA
+
+When you would like to recruit younger adults around the UCF campus, utilize SONA for your study's recruitment.
+
+[sona application](sourcedocs/researcher-study-application.pdf)
+
+#### LLRN Database
+Follow [LLRN recruitment procedures](https://github.com/llrn/protocol/readme.md)
+
+### Scheduling
+
+#### Older Adult Participants
+
+#### Younger Adult Participants
