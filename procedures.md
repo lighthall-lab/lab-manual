@@ -64,5 +64,6 @@ Follow [LLRN recruitment procedures](https://github.com/llrn/protocol/readme.md)
 ### Scheduling
 
 #### Older Adult Participants
+[oa research tips](sourcedocs/oa-research-tips.docx)
 
 #### Younger Adult Participants
