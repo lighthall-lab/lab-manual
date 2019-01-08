@@ -57,6 +57,7 @@ Once a study has been approved by the IRB, we can begin with recruiting particip
 When you would like to recruit younger adults around the UCF campus, utilize SONA for your study's recruitment. 
 
 #### LLRN Database
+[WP admin dashboard](https://sciences.ucf.edu/psychology/llrn/wp-admin/)
 
 ### Scheduling
 
