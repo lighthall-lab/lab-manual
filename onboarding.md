@@ -4,13 +4,21 @@
 
 ## Getting Started
 1. Complete the [Onboarding Survey](http://ucf.qualtrics.com/jfe/form/SV_1O1vnZagPjiplYh) to provide the lab your contact information and UCF identifcation numbers.
-3. Complete [CITI training modules](http://www.research.ucf.edu/documents/PDF/IRB%20CITI%20training.pdf) in order of priority:
+2. Complete [CITI training modules](http://www.research.ucf.edu/documents/PDF/IRB%20CITI%20training.pdf) in order of priority:
     1. Group 2. Social/Behavioral
     2. Group 1. Biomedical Research Investigators and Key Personnel
     - When finished, export your completion certificates and send them to the lab manager(s). 
+3. Join the lab [Slack](resources.md#slack) channel.
 4. Request a Sona researcher account:
     - [Application Form](sourcedocs/researcher-study-application.pdf)
-    - [Sona Admin](psych-research@ucf.edu)
+    - [Sona Admin](mailto:psych-research@ucf.edu)
+5. Ensure the lab manager(s) grant/request your access to the following resources:
+    1. [Google Drive](resources.md#google-drive)
+    2. [Google Calendars](resources.md#google-calendar)
+    3. Lab Computers
+    3. [Research Drive](resources.md#research-drive)
+    3. [GitHub organization](resources.md#github)
+    
 
 ## Key Information for Everyone
 - [Code of Conduct](code-of-conduct.md)
