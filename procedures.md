@@ -58,6 +58,7 @@ When you would like to recruit younger adults around the UCF campus, utilize SON
 
 #### LLRN Database
 [WP admin dashboard](https://sciences.ucf.edu/psychology/llrn/wp-admin/)
+Follow [LLRN recruitment procedures](https://github.com/llrn/protocol/readme.md)
 
 ### Scheduling
 
