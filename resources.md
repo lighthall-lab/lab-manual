@@ -24,11 +24,11 @@ Hosted on the lab's GitHub, you'll find a tutorial repository on the basics of u
 
 ## Google Calendar
 
-Google Calendar is used to host a general lab calendar (AD&D Lab), as well as calendars for the in-lab testing rooms and for project scheduling.
+Google Calendar is used to host a general lab calendar (AD&D Lab), as well as several calendars for individual testing rooms and for project scheduling.
 
 ## Google Drive
 
-The AD&D Lab folder on Google Drive is used to store documents and files for general use and remote access. It contains a running schedule of lab meeting presenters and topics, and a roster with lab members' contact information. This is primarily so that you can access this information from your mobile devices as needed; you are encouraged to install the Google Drive app if you do not already use it.
+The [AD&D Lab](https://drive.google.com/drive/folders/0BzClebUy65WlbVRGS2JFcTVuR0E?usp=sharing) folder on Google Drive is used to store documents and files for general use and remote access. It contains a running schedule of lab meeting presenters and topics, and a roster with lab members' contact information. This is primarily so that you can access this information from your mobile devices as needed; you are encouraged to install the Google Drive app if you do not already use it.
 
 ## Research Drive
 The "Research Drive" is our **secure UCF server** that houses all of our experiments, including stimuli, data, and analyses. You should have full access to this drive once the lab managers have completed your orientation and onboarding procedures, and it should appear as the R:/ drive on any of the lab's IT-managed computers.
