@@ -3,7 +3,7 @@
 
 ## Slack
 
-Slack will be used as the primary means of lab communication, such as general lab announcements (`#-general`), sharing links, sharing and/or discussing papers (`#-papers`), and any day-to-day message that can be sent without email. There's also a channel for keeping notes from our lab meetings (`#-lab-meetings`), as well as channels for specific projects (e.g. `#econdec`).
+[Slack](https://lighthall-lab.slack.com/) will be used as the primary means of lab communication, such as general lab announcements (`#-general`), sharing links, sharing and/or discussing papers (`#-papers`), and any day-to-day message that can be sent without email. There's also a channel for keeping notes from our lab meetings (`#-lab-meetings`), as well as channels for specific projects (e.g. `#econdec`).
 
 Try to keep each channel on topic, so that people can subscribe only to the channels that concern them. For messages to one person or a small group of people, use the direct message channels.
 
@@ -105,6 +105,7 @@ I encourage you to become very familiar the Research Drive's directory structure
 # University, College, and Department Resources
 **[under construction]**
 ## Graduate Students
+In addition to all of the [above](#lab-resources):
 - [College of Graduate Studies](https://graduate.ucf.edu/)
 	- [Pathways to Success workshops](https://graduate.ucf.edu/pathways-to-success/)
 	- [Funding Opportunities](https://graduate.ucf.edu/funding/)
@@ -114,6 +115,7 @@ I encourage you to become very familiar the Research Drive's directory structure
 - etc.?
 
 ## Undergraduate Students
+In addition to all of the [above](#lab-resources):
 - [Office of Student Involvement](https://osi.ucf.edu/)
 - [Office of Undergraduate Research](https://our.ucf.edu/)
 - [Career Services](https://career.ucf.edu/)
@@ -131,6 +133,6 @@ In addition to volunteering in lab, other research opportunities include:
  2. If you want to work in lab and earn money, you can apply for an [undergraduate research fellowship](). Candidates are expected to be academically strong (typically, GPA of 3.4 or above), and you would be expected to work 12-15 hours per week. Because these fellowships are intended to support your academic development, URF students will be strongly encouraged to participate in lab meetings. Note that if you have another UCF job, you're not allowed to work more than 20 hours per week during the academic year, and that includes the URF hours (which will also count toward work-study).
  3. If you want to work in lab, earn money, and are eligible for work-study, there may be other paid research opportunities available.
 
-If you're an undergraduate student and you want to pursue any of these options, talk to me or the lab manager.
+If you're an undergraduate student and you want to pursue any of these options, talk to Nichole or the lab manager(s).
 
 [Return to Table of Contents](readme.md#table-of-contents)
