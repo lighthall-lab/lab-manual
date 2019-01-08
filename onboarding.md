@@ -8,7 +8,9 @@
     1. Group 2. Social/Behavioral
     2. Group 1. Biomedical Research Investigators and Key Personnel
     - When finished, export your completion certificates and send them to the lab manager(s). 
-4. Request a Sona researcher account
+4. Request a Sona researcher account:
+    - [Application Form](sourcedocs/researcher-study-application.pdf)
+    - [Sona Admin](psych-research@ucf.edu)
 
 ## Key Information for Everyone
 - [Code of Conduct](code-of-conduct.md)
