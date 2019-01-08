@@ -9,7 +9,6 @@
     2. Group 1. Biomedical Research Investigators and Key Personnel
     - When finished, export your completion certificates and send them to the lab manager(s). 
 4. Request a Sona researcher account
-5. Request Psychology door access control
 
 ## Key Information for Everyone
 - [Code of Conduct](code-of-conduct.md)
@@ -22,6 +21,10 @@
 1. Scheduling your weekly hours.
     - 10 hours per week minimum. Prefer 2-3 shifts of 3-5 hours.
 2. All of the [above](#everyone), plus:
+5. Request Psychology [door access](https://ucf.qualtrics.com/jfe/form/SV_7UTgRpnCmsw1hkx):
+    - Supervisor: **"Nichole Lighthall"**
+    - Request: 303 suite *only*
+    - No General Building Access
 
 ### Volunteer documentation
 We are required to document our volunteers every semester. For students, the preferred method is to enroll you in [**PSY 4912 Directed Independent Research**](sourcedocs/PSY4912.pdf).
@@ -41,6 +44,10 @@ The other option for documenting our volunteers is with the university's [Volunt
 ## Getting Started
 **[under construction]**
 1. All of the [above](#everyone)
+5. Request Psychology [door access](https://ucf.qualtrics.com/jfe/form/SV_7UTgRpnCmsw1hkx):
+    - Supervisor: **"Nichole Lighthall"**
+    - Request: 303 suite *only*
+    - General Building Access (only if you intend to work odd hours in-lab)
 2. Program procedures, people to reach out to, Table of Contacts, etc.,
 
 ## Key Information for Graduate Students
@@ -52,8 +59,13 @@ The other option for documenting our volunteers is with the university's [Volunt
 
 # Lab Staff
 ## Getting Started
-1. Scheduling your weekly hours
-1. All of the [above](#everyone)
+1. Scheduling your weekly hours.
+1. All of the [above](#everyone), plus:
+5. Request Psychology [door access](https://ucf.qualtrics.com/jfe/form/SV_7UTgRpnCmsw1hkx):
+    - Supervisor: **"Nichole Lighthall"**
+    - Request: 303 suite *only*
+    - General Building Access
+    
 ## Key Information for Lab Staff
 - All of the [above](#key-information-for-everyone)
 - [IRB Transition](irb-transition.md)
@@ -63,6 +75,10 @@ The other option for documenting our volunteers is with the university's [Volunt
 
 # Postdocs
 ## Getting Started
+5. Request Psychology [door access](https://ucf.qualtrics.com/jfe/form/SV_7UTgRpnCmsw1hkx):
+    - Supervisor: **"Nichole Lighthall"**
+    - Request: 303 suite *only*
+    - General Building Access
 
 ## Key Information for Postdocs
 - All of the [above](#key-information-for-everyone)
