@@ -1,3 +1,5 @@
+[Return to Table of Contents](readme.md#table-of-contents)
+
 # Code of conduct
 ## General
 
@@ -51,3 +53,5 @@ For projects that required significant lab resources (e.g., fMRI or EEG studies 
 Because we are engaged in human subjects research, it is of the *utmost importance* that we adhere to our approved IRB protocols. **All lab members must read and comply with the IRB consent form and protocol for any project that they are working on.** Lab members must also complete the CITI training and be added to the research personnel list before they can work with human subjects. If there are any questions about the protocols, or if you're not sure whether we have IRB approval to run your study, please ask the lab managers for clarification. If necessary, the lab managers can file an amendment to an existing protocol or create a new protocol.
 
 If you encounter any problems in the course of doing research that results in a negative outcome for the participant (e.g., if a participant becomes ill or upset, if there is an accident with the equipment, if there is a breach of confidentiality, etc), you should immediately seek assistance from the lab managers, the PhD student in charge of the project, if applicable, and/or Dr. Lighthall, in that order of priority. If none of those people are around, you must notify them *within 24 hours*, preferably as soon as possible. In some cases, we may need to report this information to the IRB and/or our funding agencies.
+
+[Return to Table of Contents](readme.md#table-of-contents)
