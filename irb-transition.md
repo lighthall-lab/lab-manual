@@ -1,3 +1,5 @@
+[Return to Table of Contents](readme.md#table-of-contents)
+
 # Questions
 1. Will our studies that transfer into the new system change determination status if they fall under the new exempt categories (i.e., Brief Benign Behavioral Interventions)?
     - The new categories will be applied to new reviews submitted after 01/21/19 with all the new forms. Studies that are already sorted into Expedited review categories would stay in expedited, unless you do a whole resubmission with all the new forms.
@@ -194,3 +196,5 @@ IRB responses land in your [inbox](#my-inbox). If you need to modify forms like 
     
 ### Modification / Continuing Review
 This process is a unified smartform. For converted studies from the old system, the very first time we submit a **continuing review** we will need to classify it as a **Modification/Continuing Review** in order to bring in certain data from the previous system. Not a lot is actually being automatically migrated, so things like study forms will need to be reuploaded as the new form templates.
+
+[Return to Table of Contents](readme.md#table-of-contents)

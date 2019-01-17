@@ -15,11 +15,11 @@ Below, you will find a [Table of Contents](#table-of-contents), with links to th
 - [Postdocs](onboarding.md#postdocs)
 
 ### Already know what you're looking for?
-- [Code of Conduct](code-of-conduct.md)
-- [Responsibilities](responsibilities.md)
-- [Policies](policies.md)
-- [Procedures](procedures.md)
-- [Resources](resources.md)
+- [Code of Conduct](code-of-conduct.md#code-of-conduct)
+- [Responsibilities](responsibilities.md#lab-member-expectations-and-responsibilities)
+- [Policies](policies.md#general-policies)
+- [Procedures](procedures.md#procedures)
+- [Resources](resources.md#lab-resources)
 - [IRB transition](irb-transition.md)
 
 # Contacts
