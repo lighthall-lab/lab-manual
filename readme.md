@@ -1,8 +1,6 @@
-# Adult Development & Decision Lab Manual
-
 ![ADD Lab Logo](graphics/ADDL_Logo_Black.png "ADD Lab Logo")
 
-## Welcome!
+# Welcome!
 
 Welcome to the Adult Development & Decision Lab manual. This manual was developed by the Lab Manager, [Ian A Dalton](http://ianad.me/). It is intended to represent a comprehensive vision for how the lab should function and to complement existing UCF Department of Psychology policies (which take precedence). I expect that more information will be added and some sections will be revised as the lab grows and develops. If you have any comments or suggestions regarding the contents of this manual, please tell me.
 
@@ -28,7 +26,7 @@ Below, you will find a [Table of Contents](#table-of-contents), with links to th
 - [Resources](resources.md#lab-resources)
 - [IRB transition](irb-transition.md)
 
-# Contacts
+## Contacts
 
 This table contains the contact information of some critical personnel who you might be pointed to for things not covered in this manual.
 
