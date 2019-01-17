@@ -1,4 +1,5 @@
 [Return to Table of Contents](readme.md#table-of-contents)
+
 # Lab Resources
 
 ## Slack
@@ -10,6 +11,7 @@ Try to keep each channel on topic, so that people can subscribe only to the chan
 All lab members should install Slack to their computers and/or phones and check it regularly. Full-time lab members should also enable notifications for "Direct messages, mentions, & keywords", and select "Notify me about threads I'm following". Please consider allowing Slack updates on your phone and setting do-not-disturb mode for evening and night hours. You are not expected to *always* be reachable, but this configuration should be a reasonable middle-ground.
 
 ## Email
+
 Although Slack is convenient for day-to-day communication and group discussions, we should consider it unsecure. Any sensitive communications should be conducted via secure official channels, which is where your UCF.edu email address comes in. If you are  unsure whether it is appropriate to share something in Slack, feel free to use UCF Email. Communications that are only appropriate to have through secure Email might include:
 - exchanges of anyone's confidential or otherwise sensitive information, include your own and other lab members'
 - identifiable information about participants (names, contact info, etc.), especially in tandem with scheduling information
@@ -31,9 +33,11 @@ Google Calendar is used to host a general lab calendar (AD&D Lab), as well as se
 The [AD&D Lab](https://drive.google.com/drive/folders/0BzClebUy65WlbVRGS2JFcTVuR0E?usp=sharing) folder on Google Drive is used to store documents and files for general use and remote access. It contains a running schedule of lab meeting presenters and topics, and a roster with lab members' contact information. This is primarily so that you can access this information from your mobile devices as needed; you are encouraged to install the Google Drive app if you do not already use it.
 
 ## Research Drive
+
 The "Research Drive" is our **secure UCF server** that houses all of our experiments, including stimuli, data, and analyses. You should have full access to this drive once the lab managers have completed your orientation and onboarding procedures, and it should appear as the R:/ drive on any of the lab's IT-managed computers.
 
 ### Accessing the Research Drive 
+
 Your personal computers are also capable of accessing this data, so long as you are connected to the `UCF_WPA2` wireless network, or use the [UCF VPN](https://www.cst.ucf.edu/wp-content/uploads/service%20desk/NewVPN_user.pdf) to connect to the university network from home. When connected to the UCF network, you can access the Research Drive in two ways:
 - Direct Navigation
 	- In your computer's file browser, type the address directly into the address bar:
@@ -48,6 +52,7 @@ Your personal computers are also capable of accessing this data, so long as you 
 		1. ***[to-add]**: instructions for mounting network share on Mac OS*
 		
 ### Structure of the Research Drive
+
 I encourage you to become very familiar the Research Drive's directory structure - you will be accessing it quite often. Our allocation is structured like this:
 - `_archive`
   - For old stimuli, datasets, analyses, out-of-date code, or anything else that's not being used anymore.
@@ -97,14 +102,17 @@ I encourage you to become very familiar the Research Drive's directory structure
     - `code`
       - All code being used to extract, clean, merge, transform, analyze, etc., any of the project's data should be stored here, and kept as organized and tidy as possible, containing a README.md file that describes as much info as possible about the study and pipeline.
       - Code organization and tidyness might include giving your files descriptive, concise names, sorting pipeline steps into folders, appending your filenames with step numbers (e.g., `1.extract.sh`,`2.tranform.py`), etc.
-      - This directory should always be a local git repository pointed to a remote repository `origin` on the [Lab GitHub](https://github.com/lighthall-lab/")
+      - This directory should always be a local git repository pointed to a remote repository `origin` on the [Lab GitHub](https://github.com/lighthall-lab/)
     - `derivatives`
       - All analysis files, intermediary data transformations, figures, etc., should go here.
       - Data pipelines should only **ever** write data into this folder or its subfolders, and should be kept well-organized and tidy just as the `code` is.
 
 # University, College, and Department Resources
+
 **[under construction]**
+
 ## Graduate Students
+
 In addition to all of the [above](#lab-resources):
 - [College of Graduate Studies](https://graduate.ucf.edu/)
 	- [Pathways to Success workshops](https://graduate.ucf.edu/pathways-to-success/)
@@ -115,6 +123,7 @@ In addition to all of the [above](#lab-resources):
 - etc.?
 
 ## Undergraduate Students
+
 In addition to all of the [above](#lab-resources):
 - [Office of Student Involvement](https://osi.ucf.edu/)
 - [Office of Undergraduate Research](https://our.ucf.edu/)
@@ -122,6 +131,7 @@ In addition to all of the [above](#lab-resources):
 - etc.?
 
 ### Undergraduate research
+
 **[under construction]**
 
 ***[to-add]**: information about fellowships, presentation resources, undergraduate opportunities, conferences, etc.*
