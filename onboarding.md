@@ -34,7 +34,7 @@
 
 1. Schedule your weekly hours.
 
-Undergraduate volunteers are expected to be in the lab for a minimum of 10 hours per week. We can be flexible with respect to changes to your class and work schedule, but we do prefer to maintain 2-3 regular weekly 3-5 hour shifts.
+> Undergraduate volunteers are expected to be in the lab for a minimum of 10 hours per week. We can be flexible with respect to changes to your class and work schedule, but we do prefer to maintain 2-3 regular weekly 3-5 hour shifts.
 
 2. All of the [above](#everyone), plus:
 3. Request Psychology [door access](https://ucf.qualtrics.com/jfe/form/SV_7UTgRpnCmsw1hkx):
@@ -43,13 +43,13 @@ Undergraduate volunteers are expected to be in the lab for a minimum of 10 hours
     - No General Building Access
 4. Volunteer documentation
 
-We are required to document our volunteers every semester. For undergraduate  students, the preferred method is to enroll you in [**PSY 4912 Directed Independent Research**](sourcedocs/PSY4912.pdf).
-
-PSY 4912 is a course which appears on your transcript, for 0-3 credit hours, per your preference. For the most part, you should take 0 credits. This will not impact your tuition bill, *so long as you are taking other classes*. If you are not taking other classes, such as during a summer semester, you will incur enrollment fees and you should **not** take PSY 4912.
-
-If you are interested in taking credit hours for your time working in the lab, you should discuss this with the lab manager(s) and with Nichole to determine what expectations there will be for your output over the semester. You should also be aware that you will incur the normal credit hour costs for doing so. This option is only recommended for students who need to fill credit hours for degree or financial aid purposes, and have a project in mind to work on consistently throughout the semester. 
-
-The other option for documenting our volunteers is with the university's [Volunteer Agreement Forms](http://www.ehs.ucf.edu/volunteers). During Summer semesters, any undergraduates working in the lab should be documented this way.
+> We are required to document our volunteers every semester. For undergraduate  students, the preferred method is to enroll you in [**PSY 4912 Directed Independent Research**](sourcedocs/PSY4912.pdf).
+> 
+> PSY 4912 is a course which appears on your transcript, for 0-3 credit hours, per your preference. For the most part, you should take 0 credits. This will not impact your tuition bill, *so long as you are taking other classes*. If you are not taking other classes, such as during a summer semester, you will incur enrollment fees and you should **not** take PSY 4912.
+> 
+> If you are interested in taking credit hours for your time working in the lab, you should discuss this with the lab manager(s) and with Nichole to determine what expectations there will be for your output over the semester. You should also be aware that you will incur the normal credit hour costs for doing so. This option is only recommended for students who need to fill credit hours for degree or financial aid purposes, and have a project in mind to work on consistently throughout the semester. 
+> 
+> The other option for documenting our volunteers is with the university's [Volunteer Agreement Forms](http://www.ehs.ucf.edu/volunteers). During Summer semesters, any undergraduates working in the lab should be documented this way.
 
 ## Key Information for Undergraduate Students
 
