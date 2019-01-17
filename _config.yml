@@ -1,1 +1,14 @@
 theme: jekyll-theme-slate
+plugins:
+  - jekyll-relative-links
+relative_links:
+  enabled: true
+  collections: true
+include:
+  - readme.md
+  - resources.md
+  - policies.md
+  - procedures.md
+  - onboarding.md
+  - code-of-conduct.md
+  - irb-transition.md
