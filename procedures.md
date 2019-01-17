@@ -65,7 +65,7 @@ When you would like to recruit younger adults around the UCF campus, utilize SON
 
 #### LLRN Database
 
-Follow [LLRN recruitment procedures](https://github.com/llrn/protocol/blob/master/readme.md)
+Follow [LLRN recruitment procedures](https://llrn.github.io/protocol)
 
 ### Scheduling
 
