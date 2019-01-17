@@ -1,6 +1,6 @@
 # Adult Development & Decision Lab Manual
 
-![ADD Lab Logo](graphics/ADDL_Logo_Black-on-white.png "ADD Lab Logo")
+![ADD Lab Logo](graphics/ADDL_Logo_Black.png "ADD Lab Logo")
 
 ## Welcome!
 
