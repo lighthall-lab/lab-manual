@@ -88,6 +88,6 @@ All of the [above](#everyone), plus you will be expected to:
  - Attend at least one of our lab meetings or journal clubs per week.
  - Present at one meeting during the semester.
  - Write a short essay on your research topic or experiences at the end of the semester.
-- For more information about undergraduate research positions, refer to the [Undergraduate research](#undergraduate-research) section below.
+- For more information about undergraduate research positions, refer to the [Undergraduate Research Resources](resources.md#undergraduate-research).
 
 [Return to Table of Contents](readme.md#table-of-contents)
