@@ -1,8 +1,11 @@
 [Return to Table of Contents](readme.md#table-of-contents)
 
-# Lab member expectations and responsibilities
+# Responsibilities and Expectations
+
 ## Everyone
+
 ### Big picture
+
 - Do work that you are proud of. Do work that others will care about.
 - Double-check your work. Being a little obsessive is essential to good science.
 - Be supportive of your labmates. We are a team.
@@ -15,6 +18,7 @@
 - Academia may feel different from other types of jobs, but it is still a job. You should treat coming into lab with the same respect that you would treat any other position. See [Hours](policies.md#hours).
 
 ### Small picture
+
 - Do not come into the lab if you are sick. Stay home and get healthy, and don't risk getting others sick.
 - Notify the lab manager(s) or Nichole if you will be out, either due to illness or vacation. Make a note on the lab calendar. If you are sick and you had experiments or meetings scheduled that day, notify your participants or collaborators and reschedule.
 - You are not expected to come into lab on [staff holidays](https://calendar.ucf.edu). If you are being paid, then you *are* expected to come into lab during university breaks (except for staff holidays or if you're taking your paid vacation time.
@@ -24,16 +28,18 @@
 - Arrive to lab at least 15 minutes before you have any experiments scheduled, so that you will be there to greet the participants.
 
 ## PI
+
 All of the [above](#everyone), plus you can expect Nichole to:
 - Maintain a vision of where the lab is going
 - Provide the funding necessary to keep the lab going
 - Meet with you regularly to discuss your research projects. The definition of "regularly" may change over time or over the course of a project, but for now, means once a week or more often as needed.
 - Give you my perspective on academia and issues related to professional development
-- Support your career development by introducing you to other researchers in the field, writing [recommendation letters](#recommendation-letters) for you, providing you with opportunities to attend conferences when possible, and promoting your work in talks
+- Support your career development by introducing you to other researchers in the field, writing [recommendation letters](policies.md#recommendation-letters) for you, providing you with opportunities to attend conferences when possible, and promoting your work in talks
 - Care about you as a person and not just a scientist
 - Maintain "office hours" for the lab. See [Hours](policies.md#hours).
 
 ## Postdocs
+
 All of the [above](#everyone), plus you will be expected to:
 - Develop your own independent line of research
 - Mentor undergraduate and graduate students on their research projects, when asked or when appropriate
@@ -43,6 +49,7 @@ All of the [above](#everyone), plus you will be expected to:
 - Remind Nichole (the PI) that different scientific opinions can co-exist in the same lab!
 
 ## Graduate students
+
 All of the [above](#everyone), plus you will be expected to:
 - Develop a line of dissertation research. Ideally, your dissertation research will consist of at least 3 experiments that can be packaged into one thesis document.
 - Apply for external funding (e.g., NSF GRFP or NRSA). If nothing else, this is an extremely valuable experience, and it will release you from your TA-ing responsibilities.
@@ -52,6 +59,7 @@ All of the [above](#everyone), plus you will be expected to:
 - Prioritize time for research. It is easy to get caught up in coursework or TA-ing, but at the end of 5-ish years, you need to have completed a dissertation.
 
 ## Lab managers
+
 All of the [above](#everyone), plus you will be expected to:
 - Maintain the lab IRB protocols and paperwork (e.g., archiving consent forms).
 - Oversee the hiring, scheduling, and training of undergraduate research assistants.
@@ -63,6 +71,7 @@ All of the [above](#everyone), plus you will be expected to:
 - Work on your own research project.
 
 ## Other full-time staff
+
 All of the [above](#everyone), plus you will be expected to:
 - Work on your own research project.
 - Assist other lab members with data collection or analysis (typically you will be assigned to particular projects).
@@ -70,6 +79,7 @@ All of the [above](#everyone), plus you will be expected to:
 - Provide extra support to the lab manager.
 
 ## Undergraduate students
+
 All of the [above](#everyone), plus you will be expected to:
 - Assist other lab members with data collection or analysis (typically you will be assigned to particular projects).
 - Work with the lab manager and/or your research mentor to determine your weekly schedule. If you are not able to come in during your normal scheduled time, you must let the lab manager know.
@@ -78,6 +88,6 @@ All of the [above](#everyone), plus you will be expected to:
  - Attend at least one of our lab meetings or journal clubs per week.
  - Present at one meeting during the semester.
  - Write a short essay on your research topic or experiences at the end of the semester.
-- For more information about undergraduate research positions, refer to the [Undergraduate research](#undergraduate-research) section below.
+- For more information about undergraduate research positions, refer to the [Undergraduate Research Resources](resources.md#undergraduate-research).
 
 [Return to Table of Contents](readme.md#table-of-contents)

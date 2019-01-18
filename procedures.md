@@ -6,9 +6,11 @@
 ## GitHub Workflow
 
 ### Creating a new analysis branch
+
 1. `git branch Analysis-Name`
 
 ### Modifying an ongoing analysis branch
+
 1. Switch to the analysis branch:
     - `git checkout Analysis-Name`
 2. Make changes to your code as appropriate.
@@ -18,11 +20,13 @@
     - `git commit -m "made some changes like blah blah blah"`
 
 ### Send your changes to GitHub
+
 - `git push --set-upstream origin Analysis-Name`
 
 When all of your commits are made, back up your analysis branch on GitHub. The analysis branch code doesn't have to be totally complete, but it should be relatively stable. This is necessary if you want to use GitHub issue tracking and code review.
 
 ### Open a Pull Request
+
 Once your analysis branch is in a stable state, checked and tested:
 1. Open a pull request
     1. Have the code reviewed by project head, discuss, etc.
@@ -35,6 +39,7 @@ Once your analysis branch is in a stable state, checked and tested:
 ## IRB Submissions
 
 ### Huron Research Suite
+
 1. Log in using NID and NID password
     - https://ucf1.huronresearchsuite.com/IRB
 2. Address outstanding action items in your inbox
@@ -59,11 +64,13 @@ When you would like to recruit younger adults around the UCF campus, utilize SON
 [sona application](sourcedocs/researcher-study-application.pdf)
 
 #### LLRN Database
-Follow [LLRN recruitment procedures](https://github.com/llrn/protocol/readme.md)
+
+Follow [LLRN recruitment procedures](https://llrn.github.io/protocol)
 
 ### Scheduling
 
 #### Older Adult Participants
+
 [oa research tips](sourcedocs/oa-research-tips.docx)
 
 #### Younger Adult Participants
