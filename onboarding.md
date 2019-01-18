@@ -13,12 +13,13 @@
 4. Request a Sona researcher account:
     - [Application Form](sourcedocs/researcher-study-application.pdf)
     - [Sona Admin](mailto:psych-research@ucf.edu)
-5. Ensure the lab manager(s) grant/request your access to the following resources:
-    1. [Google Drive](resources.md#google-drive)
-    2. [Google Calendars](resources.md#google-calendar)
-    3. Lab Computers
-    3. [Research Drive](resources.md#research-drive)
-    3. [GitHub organization](resources.md#github)
+5. Ensure the lab manager(s) grant/request your access to:
+    1. Lab Computers
+    2. All relevant IRB studies
+    3. [Google Drive](resources.md#google-drive)
+    4. [Google Calendars](resources.md#google-calendar)
+    5. [Research Drive](resources.md#research-drive)
+    6. [GitHub organization](resources.md#github)
     
 
 ## Key Information for Everyone
