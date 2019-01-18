@@ -13,6 +13,7 @@
 4. Request a Sona researcher account:
     - [Application Form](sourcedocs/researcher-study-application.pdf)
     - [Sona Admin](mailto:psych-research@ucf.edu)
+5. Request a [Qualtrics access upgrade](https://ucf.service-now.com/ucfit/?id=sc_cat_item&sys_id=0e27f8644fa93600be64f0318110c7d2)
 5. Ensure the lab manager(s) grant/request your access to:
     1. Lab Computers
     2. All relevant IRB studies
