@@ -33,7 +33,7 @@ This table contains the contact information of some critical personnel who you m
 | Name | Role | Phone | Email |
 | ---- | ----- | ----- | ----- |
 | Nichole Lighthall | Lab Director | 407-823-2216 | Nichole.Lighthall@ucf.edu |
-|  | Office Assistants | 407-823-4601 | |
+| Marisol Santiago | Office Assistant | 407-823-4601 | Marisol.Santiago@ucf.edu |
 | Prapti Patel | Senior Accountant |407-823-1011 | Prapti.Patel@ucf.edu |
 | Mikala Armioia | HFCP Program Assistant | 407-823-3919 | Mikala.Armioia@ucf.edu |
 | Julian Hale | Psychology Building Manager | 407-823-3933 | Julian.Hale@ucf.edu |
