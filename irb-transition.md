@@ -9,7 +9,7 @@
 
 # IRB training
 ## Project Wahoo
-- Training Powerpoint: http://wahoo.research.ucf.edu/files/IRB-System-and-Toolkit-Updates.pdf
+- [Training Powerpoint](http://wahoo.research.ucf.edu/files/IRB-System-and-Toolkit-Updates.pdf)
 1. Toolkit changes
 2. *Common Rule* changes
 3. Software
