@@ -1,6 +1,8 @@
-# SONA System Rules - UCF Psychology Department
+# SONA System Rules
 
-**Updated**  **1/23/2019**
+**UCF Psychology Department**
+
+**Updated**  1/22/2019
 
 **Note:** The following rules have been approved by the Psychology Department faculty. These are now all in effect and will be enforced.
 
