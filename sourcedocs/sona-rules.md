@@ -1,6 +1,6 @@
 # SONA System Rules
 
-**UCF Psychology Department**
+## UCF Psychology Department
 
 **Updated**  1/22/2019
 
@@ -36,7 +36,7 @@ We will allow researchers to use SONA for studies that offer either cash reimbur
   - Let the participant participate in the alternate study at that same timeslot – as described in bullet above (with no additional 1 point).
 - The participant can choose whichever of these two options that he or she prefers.
 
-## Consequences if participant shows up to scheduled timeslot and is then not given the opportunity to participate because a researcher does not show up or tries to cancel with less than 24 hours notice:
+## Consequences if participant shows up to scheduled timeslot and is then not given the opportunity to participate because a researcher does not show up or tries to cancel with less than 24 hours notice
 
 - The participant must be given the full SONA credit for that study even though they did not participate. This full SONA credit must be entered immediately (within 48 hours) by the researcher.
 - However, researchers CAN cancel a scheduled timeslot with no credit given to the student if the researchers provide this notice more than 24 hours in advance of the scheduled appointment (including weekends).
@@ -74,11 +74,11 @@ We will allow researchers to use SONA for studies that offer either cash reimbur
 
 If you receive an automated e-mail from SONA notifying you that a participant only partially completed your survey (discontinued before end) and the timeslot is awaiting action, please go to that timeslot within 48 hours, click on Modify, and then look at the start time and stop time indicated at top. Then manually award the participant the number of credits for that duration (0.25 for each 30 minutes rounded up; e.g., 35 minutes = 0.50 credits).
 
-## Online vs. face-to-face ratio:
+## Online vs. face-to-face ratio
 
 The system will be set to only allow 40% of the total SONA points applied toward any particular class to come from online studies (rounded to nearest 0.25 point). The pedagogical rationale for this is that we believe that students get more of an educational research experience from face-to-face studies, so we would like to limit their credits to be only 2/5 online vs. 3/5 face-to-face.
 
-## Accommodation of this rule for regional and online classes:
+## Accommodation of this rule for regional and online classes
 
 As it is particularly difficult for some students from regional and online classes to drive over to the main campus for face-to-face studies, we allow students in those courses do 100% of their credits online, especially considering that this is a small portion of the overall SONA pool. To implement this, we simply enter a higher total number of possible credits for those particular courses, so that the 40% rule would still allow them to get 100% of the &quot;actual&quot; credits online.
 
@@ -93,4 +93,3 @@ All communication of student SONA credits to instructors must come from the SONA
 ## Alternate Activity Requirement
 
 All classes that offer SONA points for academic credit (even as extra credit) must also offer an alternative activity that does not require participation in research studies (e.g., summarizing research articles). These alternative activities should be worth the same number of points for the same estimated time required for completion, as compared to the SONA alterative.
-
