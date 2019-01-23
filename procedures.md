@@ -49,28 +49,27 @@ Once your analysis branch is in a stable state, checked and tested:
     2. By default, add all present lab members as study personnel.
     2. Add Department Chair and Nichole Lighthall as Ancillary Reviewers
     
-## Recruitment and Scheduling
+## Recruitment
   
 ***[under construction]***
     
-Once a study has been approved by the IRB, we can begin with recruiting participants, and scheduling sessions. Please note in your study's protocol whether your study will be using SONA, LLRN, or any other forms of recruitment. 
+Once a study has been approved by the IRB, we can begin with recruiting participants, and scheduling sessions. Please note in your study's protocol whether your study will be using Sona, LLRN, or any other forms of recruitment. 
 
-### Recruitment
+### Sona
 
-#### SONA
+When you would like to recruit younger adults around the UCF campus, utilize Sona for your study's recruitment.
 
-When you would like to recruit younger adults around the UCF campus, utilize SONA for your study's recruitment.
+- [Sona guidelines](sourcdocs/sona-guidelines-spring-2019.docx)
+- [Sona rules](sourcedocs/sona-guidelines-spring-2019.docx)
 
-[sona application](sourcedocs/researcher-study-application.pdf)
-
-#### LLRN Database
+### LLRN Database
 
 Follow [LLRN recruitment procedures](https://llrn.github.io/protocol)
 
-### Scheduling
+## Scheduling
 
-#### Older Adult Participants
+### Older Adult Participants
 
 [oa research tips](sourcedocs/oa-research-tips.docx)
 
-#### Younger Adult Participants
+### Younger Adult Participants
