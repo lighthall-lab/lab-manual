@@ -37,14 +37,14 @@ The [AD&D Lab](https://drive.google.com/drive/folders/0BzClebUy65WlbVRGS2JFcTVuR
 
 As a UCF student/employee, you will have access to the UCF shared network resources under your NID credentials. As long as you are connected to the `UCF_WPA2` wireless network, or use the [UCF VPN](https://www.cst.ucf.edu/wp-content/uploads/service%20desk/NewVPN_user.pdf) to connect to the university network from home. When connected to the UCF network, you can access the Network Drives in two ways.
 
-First, find the server address (below these instructions) of the resource you are trying to access. Then decide whether you want to access it by mounting it as a network drive on your computer (semi-permanent), or navigate to it directly (temporary).
+First, find the server address ([see here](#server-addresses)) of the resource you are trying to access. Then decide whether you want to access it by mounting it as a network drive on your computer (semi-permanent), or navigate to it directly (temporary).
 
 ### Direct Navigation
 
 1. In your computer's file browser, type the network resource's server address directly into the address bar. `\\net1110.net.ucf.edu\`...
 2. Sign in with your UCF NID and NID password
 
-Mount as a Network Drive
+### Mount as a Network Drive
 
 - Windows
   1. Right click on "This PC" and select "Map network drive..."
