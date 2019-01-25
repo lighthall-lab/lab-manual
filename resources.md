@@ -33,27 +33,37 @@ Google Calendar is used to host a general lab calendar (AD&D Lab), as well as se
 
 The [AD&D Lab](https://drive.google.com/drive/folders/0BzClebUy65WlbVRGS2JFcTVuR0E?usp=sharing) folder on Google Drive is used to store documents and files for general use and remote access. It contains a running schedule of lab meeting presenters and topics, and a roster with lab members' contact information. This is primarily so that you can access this information from your mobile devices as needed; you are encouraged to install the Google Drive app if you do not already use it.
 
-## Research Drive
+## Network Drives
 
-The "Research Drive" is our **secure UCF server** that houses all of our experiments, including stimuli, data, and analyses. You should have full access to this drive once the lab managers have completed your orientation and onboarding procedures, and it should appear as the R:/ drive on any of the lab's IT-managed computers.
+As a UCF student/employee, you will have access to the UCF shared network resources under your NID credentials. As long as you are connected to the `UCF_WPA2` wireless network, or use the [UCF VPN](https://www.cst.ucf.edu/wp-content/uploads/service%20desk/NewVPN_user.pdf) to connect to the university network from home. When connected to the UCF network, you can access the Network Drives in two ways.
 
-### Accessing the Research Drive
+First, find the server address (below these instructions) of the resource you are trying to access. Then decide whether you want to access it by mounting it as a network drive on your computer (semi-permanent), or navigate to it directly (temporary).
 
-Your personal computers are also capable of accessing this data, so long as you are connected to the `UCF_WPA2` wireless network, or use the [UCF VPN](https://www.cst.ucf.edu/wp-content/uploads/service%20desk/NewVPN_user.pdf) to connect to the university network from home. When connected to the UCF network, you can access the Research Drive in two ways:
+### Direct Navigation
 
-- Direct Navigation
-  - In your computer's file browser, type the address directly into the address bar:
-    - `\\net1110.net.ucf.edu\research2\lighthall_lab\`
-  - Sign in with your UCF NID and NID password
-- Mount as a Network Drive
-  - Windows
-    1. Right click on "This PC" and select "Map network drive..."
-    2. Choose a drive letter (We use "R:") and enter the server address:
-    - `\\net1110.net.ucf.edu\research2\lighthall_lab\`
-  - Mac
-    1. ***[to-add]**: instructions for mounting network share on Mac OS*
+1. In your computer's file browser, type the network resource's server address directly into the address bar. `\\net1110.net.ucf.edu\`...
+2. Sign in with your UCF NID and NID password
 
-### Structure of the Research Drive
+Mount as a Network Drive
+
+- Windows
+  1. Right click on "This PC" and select "Map network drive..."
+  2. Choose a drive letter (We use "R:") and enter the network resource's server address: `\\net1110.net.ucf.edu\`...
+- Mac
+  1. Cmd+K to open the "Connect to Server" dialog.
+  2. Enter the network resources server address as a Samba protocol address: `smb://net1110.net.ucf.edu/`...
+
+### Server Addresses
+
+Personal Storage: `\\net1110.net.ucf.edu\profiles\[Your NID]`
+
+> This 30GB storage space is accessible only to you, from any computer operating on the UCF local network, or via tunnelling in with the VPN. On IT-managed computers, it is automatically mounted for you as the `U:/` drive. I recommend using it for personal files, API keys, supporting configuration files, etc., that you will use on such computers.
+
+Research Drive: `\\net1110.net.ucf.edu\research2\Lighthall_Lab\`
+
+> The "Research Drive" is our **secure UCF server** that houses all of our experiments, including stimuli, data, and analyses. You should have full access to this drive once the lab managers have completed your orientation and onboarding procedures, and it should appear as the `R:/` drive on any of the lab's IT-managed computers. If it does not, consult the lab staff so they can request IT grant you access.
+
+#### Structure of the Research Drive
 
 I encourage you to become very familiar the Research Drive's directory structure - you will be accessing it quite often. Our allocation is structured like this:
 
@@ -108,7 +118,7 @@ I encourage you to become very familiar the Research Drive's directory structure
       - This directory should always be a local git repository pointed to a remote repository `origin` on the [Lab GitHub](https://github.com/lighthall-lab/)
     - `derivatives`
       - All analysis files, intermediary data transformations, figures, etc., should go here.
-      - Data pipelines should only **ever** write data into this folder or its subfolders, and should be kept well-organized and tidy just as the `code` is.
+      - Data pipelines should only **ever** write data into this folder or its subfolders, and it should be kept well-organized and tidy just as the `code` is.
 
 ## University, College, and Department Resources
 
