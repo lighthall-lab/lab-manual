@@ -46,7 +46,7 @@ All of the [above](#everyone), plus:
 >
 > The other option for documenting our volunteers is with the university's [Volunteer Agreement Forms](http://www.ehs.ucf.edu/volunteers). During Summer semesters, any undergraduates working in the lab should be documented this way.
 
-## Graduate Students
+### Graduate Students
 
 [under construction]
 
@@ -57,7 +57,7 @@ All of the [above](#everyone), plus:
     - General Building Access (only if you intend to work odd hours in-lab)
 3. Program procedures, people to reach out to, Table of Contacts, etc.,
 
-## Lab Staff
+### Lab Staff
 
 1. All of the [above](#everyone), plus:
 2. Scheduling your weekly hours.
@@ -66,7 +66,7 @@ All of the [above](#everyone), plus:
     - Request: 303 suite *only*
     - General Building Access
 
-## Postdocs
+### Postdocs
 
 1. Request Psychology [door access](https://ucf.qualtrics.com/jfe/form/SV_7UTgRpnCmsw1hkx):
     - Supervisor: **"Nichole Lighthall"**
@@ -82,13 +82,13 @@ All of the [above](#everyone), plus:
 - [Policies](policies.md)
 - [Responsibilities](responsibilities.md#everyone)
 
-## Key Information for Undergraduate Students
+### Key Information for Undergraduate Students
 
 - All of the [above](#key-information-for-everyone)
 - [Undergraduate Student Responsibilities](responsibilities.md#undergraduate-students)
 - [Undergraduate Student Resources](resources.md#undergraduate-students)
 
-## Key Information for Graduate Students
+### Key Information for Graduate Students
 
 - All of the [above](#key-information-for-everyone)
 - [IRB Transition](irb-transition.md)
@@ -96,7 +96,7 @@ All of the [above](#everyone), plus:
 - [Graduate Student Responsibilities](responsibilities.md#graduate-students)
 - [Graduate Student Resources](resources.md#graduate-students)
 
-## Key Information for Lab Staff
+### Key Information for Lab Staff
 
 - All of the [above](#key-information-for-everyone)
 - [IRB Transition](irb-transition.md)
@@ -104,7 +104,7 @@ All of the [above](#everyone), plus:
 - [Lab Staff Responsibilities](responsibilities.md#lab-managers)
 - [Human Resources](http://hr.ucf.edu)
 
-## Key Information for Postdocs
+### Key Information for Postdocs
 
 - All of the [above](#key-information-for-everyone)
 - [IRB Transition](irb-transition.md)
