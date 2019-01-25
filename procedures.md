@@ -1,7 +1,7 @@
 
-[Return to Table of Contents](readme.md#table-of-contents)
-
 # Procedures
+
+[Return to Table of Contents](readme.md#table-of-contents)
 
 ## GitHub Workflow
 
@@ -28,6 +28,7 @@ When all of your commits are made, back up your analysis branch on GitHub. The a
 ### Open a Pull Request
 
 Once your analysis branch is in a stable state, checked and tested:
+
 1. Open a pull request
     1. Have the code reviewed by project head, discuss, etc.
 2. Project head should merge the completed analysis branch into master and delete the analysis branch
@@ -41,19 +42,18 @@ Once your analysis branch is in a stable state, checked and tested:
 ### Huron Research Suite
 
 1. Log in using NID and NID password
-    - https://ucf1.huronresearchsuite.com/IRB
+    - [Huron IRB Portal](https://ucf1.huronresearchsuite.com/IRB)
 2. Address outstanding action items in your inbox
 3. Create New Study
-    1. Use new IRB template forms:
-        - http://www.research.ucf.edu/compliance/IRB/Investigators/forms.html
+    1. Use [new IRB template forms](http://www.research.ucf.edu/compliance/IRB/Investigators/forms.html)
     2. By default, add all present lab members as study personnel.
-    2. Add Department Chair and Nichole Lighthall as Ancillary Reviewers
-    
+    3. Add Department Chair and Nichole Lighthall as Ancillary Reviewers
+
 ## Recruitment
   
-***[under construction]***
-    
-Once a study has been approved by the IRB, we can begin with recruiting participants, and scheduling sessions. Please note in your study's protocol whether your study will be using Sona, LLRN, or any other forms of recruitment. 
+[under construction]
+
+Once a study has been approved by the IRB, we can begin with recruiting participants, and scheduling sessions. Please note in your study's protocol whether your study will be using Sona, LLRN, or any other forms of recruitment.
 
 ### Sona
 

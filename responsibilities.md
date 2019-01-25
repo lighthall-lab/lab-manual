@@ -1,6 +1,6 @@
-[Return to Table of Contents](readme.md#table-of-contents)
-
 # Responsibilities and Expectations
+
+[Return to Table of Contents](readme.md#table-of-contents)
 
 ## Everyone
 
@@ -30,6 +30,7 @@
 ## PI
 
 All of the [above](#everyone), plus you can expect Nichole to:
+
 - Maintain a vision of where the lab is going
 - Provide the funding necessary to keep the lab going
 - Meet with you regularly to discuss your research projects. The definition of "regularly" may change over time or over the course of a project, but for now, means once a week or more often as needed.
@@ -41,6 +42,7 @@ All of the [above](#everyone), plus you can expect Nichole to:
 ## Postdocs
 
 All of the [above](#everyone), plus you will be expected to:
+
 - Develop your own independent line of research
 - Mentor undergraduate and graduate students on their research projects, when asked or when appropriate
 - Apply for external funding (e.g., NRSA, K99). We will hire postdocs only when there is funding available for at least a year; however, applying for external funding is a valuable experience and, if awarded, it will release those dedicated funds for other purposes.
@@ -51,6 +53,7 @@ All of the [above](#everyone), plus you will be expected to:
 ## Graduate students
 
 All of the [above](#everyone), plus you will be expected to:
+
 - Develop a line of dissertation research. Ideally, your dissertation research will consist of at least 3 experiments that can be packaged into one thesis document.
 - Apply for external funding (e.g., NSF GRFP or NRSA). If nothing else, this is an extremely valuable experience, and it will release you from your TA-ing responsibilities.
 - Do some soul-searching as to what type of career you want to pursue, e.g., academic jobs that are research-focused or teaching-focused, non-academic jobs like data science or science writing. We can brainstorm ways of making sure you are getting the training that you need.
@@ -61,9 +64,10 @@ All of the [above](#everyone), plus you will be expected to:
 ## Lab managers
 
 All of the [above](#everyone), plus you will be expected to:
+
 - Maintain the lab IRB protocols and paperwork (e.g., archiving consent forms).
 - Oversee the hiring, scheduling, and training of undergraduate research assistants.
-    - Make sure all volunteers are properly documented, either through [course registration](sourcedocs/PSY4912.pdf) or [EHS forms](http://www.ehs.ucf.edu/volunteers).
+  - Make sure all volunteers are properly documented, either through [course registration](sourcedocs/PSY4912.pdf) or [EHS forms](http://www.ehs.ucf.edu/volunteers).
 - Maintain the lab website.
 - Assist with participant recruitment and scheduling.
 - Assist other lab members with data collection or analysis (typically you will be assigned to particular projects).
@@ -73,6 +77,7 @@ All of the [above](#everyone), plus you will be expected to:
 ## Other full-time staff
 
 All of the [above](#everyone), plus you will be expected to:
+
 - Work on your own research project.
 - Assist other lab members with data collection or analysis (typically you will be assigned to particular projects).
 - Help to maintain an atmosphere of professionalism within the lab.
@@ -81,13 +86,14 @@ All of the [above](#everyone), plus you will be expected to:
 ## Undergraduate students
 
 All of the [above](#everyone), plus you will be expected to:
+
 - Assist other lab members with data collection or analysis (typically you will be assigned to particular projects).
 - Work with the lab manager and/or your research mentor to determine your weekly schedule. If you are not able to come in during your normal scheduled time, you must let the lab manager know.
 - Provide extra support to the lab manager (this may include filing paperwork). If you are in lab and do not have a task to do, you should ask the lab manager or your supervisor whether there is anything you can help out with.
 - *If you are earning course credit for research, you must additionally:*
- - Attend at least one of our lab meetings or journal clubs per week.
- - Present at one meeting during the semester.
- - Write a short essay on your research topic or experiences at the end of the semester.
+  - Attend at least one of our lab meetings or journal clubs per week.
+  - Present at one meeting during the semester.
+  - Write a short essay on your research topic or experiences at the end of the semester.
 - For more information about undergraduate research positions, refer to the [Undergraduate Research Resources](resources.md#undergraduate-research).
 
 [Return to Table of Contents](readme.md#table-of-contents)
