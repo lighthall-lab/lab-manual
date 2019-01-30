@@ -1,6 +1,6 @@
 # Procedures
 
-[Return to Table of Contents](readme.md#table-of-contents)
+**[↤ Return to Table of Contents](readme.md#table-of-contents)**
 
 ## GitHub Workflow
 
@@ -73,6 +73,4 @@ Follow [LLRN recruitment procedures](https://llrn.github.io/protocol)
 
 ### Younger Adult Participants
 
-## End Procedures
-
-**[Back to Top](#procedures)**
+**[↥ Back to Top](#procedures)**
