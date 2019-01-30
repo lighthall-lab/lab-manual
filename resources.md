@@ -175,4 +175,6 @@ Here you'll find a repository of undergraduate research experiences for students
 
 This is another repository of undergraduate research experiences. It includes a common application to approximately 10 institutions in the Midwest. This one is open to all disciplines but some institutions may focus more on the life sciences.
 
-[Return to Table of Contents](readme.md#table-of-contents)
+## End Resources
+
+**[Back to Top](#lab-resources)**

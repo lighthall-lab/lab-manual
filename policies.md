@@ -1,4 +1,4 @@
-# General policies
+# General Policies
 
 [Return to Table of Contents](readme.md#table-of-contents)
 
@@ -80,4 +80,6 @@ If you are leading a study for which you are paying participants, you are primar
 
 Assure that when the participants finish their sessions, they sign a receipt provided by Prapti *for that study* to confirm the amount, and that the time, date, amount, etc., is logged on your petty cash record. Make copies (preferably digital) of each receipt in case anything happens to the original. When your study needs more cash, make sure you have all of these logs together with your original copies of the participant receipts **before** you contact Prapti. Set up an appointment time with her *and keep it*, bringing all of these documents so she can square up her records with ours.
 
-[Return to Table of Contents](readme.md#table-of-contents)
+## End General Policies
+
+**[Back to Top](#general-policies)**

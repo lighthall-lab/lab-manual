@@ -1,4 +1,3 @@
-
 # Procedures
 
 [Return to Table of Contents](readme.md#table-of-contents)
@@ -73,3 +72,7 @@ Follow [LLRN recruitment procedures](https://llrn.github.io/protocol)
 [oa research tips](sourcedocs/oa-research-tips.docx)
 
 ### Younger Adult Participants
+
+## End Procedures
+
+**[Back to Top](#procedures)**

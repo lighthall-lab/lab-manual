@@ -1,4 +1,4 @@
-# Responsibilities and Expectations
+# Responsibilities & Expectations
 
 [Return to Table of Contents](readme.md#table-of-contents)
 
@@ -96,4 +96,6 @@ All of the [above](#everyone), plus you will be expected to:
   - Write a short essay on your research topic or experiences at the end of the semester.
 - For more information about undergraduate research positions, refer to the [Undergraduate Research Resources](resources.md#undergraduate-research).
 
-[Return to Table of Contents](readme.md#table-of-contents)
+## End Responsibilities & Expectations
+
+**[Back to Top](#responsibilities--expectations)**
