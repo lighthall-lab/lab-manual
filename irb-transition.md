@@ -199,6 +199,4 @@ IRB responses land in your [inbox](#my-inbox). If you need to modify forms like 
 ### Modification / Continuing Review
 This process is a unified smartform. For converted studies from the old system, the very first time we submit a **continuing review** we will need to classify it as a **Modification/Continuing Review** in order to bring in certain data from the previous system. Not a lot is actually being automatically migrated, so things like study forms will need to be reuploaded as the new form templates.
 
-## End IRB Transition
-
 **[↥ Back to Top](#irb-transition)**
