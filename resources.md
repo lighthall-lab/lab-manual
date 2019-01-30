@@ -169,10 +169,10 @@ If you're an undergraduate student and you want to pursue any of these options, 
   Something to consider when undergoing the process of applying to graduate school. This is a competitive fellowship that offers financial support for research at the master's and doctorate's levels. You are able to apply once as an undergraduate and once as a graduate student. 
 
 [NSF Research Experiences for Undergraduates](https://www.nsf.gov/funding/pgm_summ.jsp?pims_id=5517) 
-  This is a repository of undergraduate research experiences for students in STEM fields. There are some opportunities in Neuroscience that might be fitting for students with a psychology background. 
+  This is a repository of undergraduate research experiences for students in STEM fields. Psychology, Sociology, and Neuroscience are represented. 
 
 [Big Ten Alliance Summer Research Opportunties Program](http://www.btaa.org/resources-for/students/srop/introduction)
-  Another repository of undergraduate research experiences. It includes a common application to ~10 institutions in the Midwest. This is open to all disciplines. 
+  Another repository of undergraduate research experiences. It includes a common application to approximately 10 institutions in the Midwest. This one is open to all disciplines but some institutions may focus more on the life sciences. 
 
 
 
