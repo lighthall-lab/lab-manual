@@ -1,6 +1,6 @@
 # General Policies
 
-[Return to Table of Contents](readme.md#table-of-contents)
+**[↤ Return to Table of Contents](readme.md#table-of-contents)**
 
 ## Hours
 
@@ -82,4 +82,4 @@ Assure that when the participants finish their sessions, they sign a receipt pro
 
 ## End General Policies
 
-**[Back to Top](#general-policies)**
+**[↥ Back to Top](#general-policies)**

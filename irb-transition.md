@@ -1,6 +1,6 @@
 # IRB Transition
 
-[Return to Table of Contents](readme.md#table-of-contents)
+**[↤ Return to Table of Contents](readme.md#table-of-contents)**
 
 ## Questions
 1. Will our studies that transfer into the new system change determination status if they fall under the new exempt categories (i.e., Brief Benign Behavioral Interventions)?
@@ -201,4 +201,4 @@ This process is a unified smartform. For converted studies from the old system, 
 
 ## End IRB Transition
 
-**[Back to Top](#irb-transition)**
+**[↥ Back to Top](#irb-transition)**

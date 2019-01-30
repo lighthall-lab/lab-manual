@@ -1,6 +1,6 @@
 # Lab Resources
 
-[Return to Table of Contents](readme.md#table-of-contents)
+**[↤ Return to Table of Contents](readme.md#table-of-contents)**
 
 ## Slack
 
@@ -175,6 +175,4 @@ Here you'll find a repository of undergraduate research experiences for students
 
 This is another repository of undergraduate research experiences. It includes a common application to approximately 10 institutions in the Midwest. This one is open to all disciplines but some institutions may focus more on the life sciences.
 
-## End Resources
-
-**[Back to Top](#lab-resources)**
+**[↥ Back to Top](#lab-resources)**

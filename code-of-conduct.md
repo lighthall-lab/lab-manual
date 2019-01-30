@@ -1,6 +1,6 @@
 # Code of Conduct
 
-[Return to Table of Contents](readme.md#table-of-contents)
+**[↤ Return to Table of Contents](readme.md#table-of-contents)**
 
 ## General
 
@@ -60,6 +60,4 @@ Because we are engaged in human subjects research, it is of the *utmost importan
 
 If you encounter any problems in the course of doing research that results in a negative outcome for the participant (e.g., if a participant becomes ill or upset, if there is an accident with the equipment, if there is a breach of confidentiality, etc), you should immediately seek assistance from the lab managers, the PhD student in charge of the project, if applicable, and/or Dr. Lighthall, in that order of priority. If none of those people are around, you must notify them *within 24 hours*, preferably as soon as possible. In some cases, we may need to report this information to the IRB and/or our funding agencies.
 
-## End Code of Conduct
-
-**[Back to Top](#code-of-conduct)**
+**[↥ Back to Top](#code-of-conduct)**
