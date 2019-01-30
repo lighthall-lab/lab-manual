@@ -31,7 +31,7 @@ Below, you will find a [Table of Contents](#table-of-contents), with links to th
 This table contains the contact information of some critical personnel who you might be pointed to for things not covered in this manual.
 
 | Name | Role | Phone | Email |
-| ---- | ---- | ----: | ----- |
+| :--- | :--- | ----: | :---- |
 | Nichole Lighthall | Lab Director | `407-823-2216` | Nichole.Lighthall@ucf.edu |
 | Marisol Santiago | Office Assistant | `407-823-4601` | Marisol.Santiago@ucf.edu |
 | Prapti Patel | Senior Accountant | `407-823-1011` | Prapti.Patel@ucf.edu |
