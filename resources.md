@@ -161,22 +161,18 @@ In addition to volunteering in lab, other research opportunities include:
 
 If you're an undergraduate student and you want to pursue any of these options, talk to Nichole or the lab manager(s).
 
-
-
 ### External Research Opportunities and Fellowships
 
 [NSF Graduate Research Fellowship](https://www.nsfgrfp.org)
 
-The NSF GRFP is something to consider when undergoing the process of applying to graduate school. This is a competitive fellowship that offers financial support for research at the master's and doctorate's levels. You are able to apply once as an undergraduate and once as a graduate student. 
+The NSF GRFP is something to consider when undergoing the process of applying to graduate school. This is a competitive fellowship that offers financial support for research at the master's and doctorate's levels. You are able to apply once as an undergraduate and once as a graduate student.
 
-[NSF Research Experiences for Undergraduates](https://www.nsf.gov/funding/pgm_summ.jsp?pims_id=5517) 
+[NSF Research Experiences for Undergraduates](https://www.nsf.gov/funding/pgm_summ.jsp?pims_id=5517)
 
-Here you'll find a repository of undergraduate research experiences for students in STEM fields. Psychology, Sociology, and Neuroscience are represented. 
+Here you'll find a repository of undergraduate research experiences for students in STEM fields. Psychology, Sociology, and Neuroscience are represented.
 
 [Big Ten Alliance Summer Research Opportunties Program](http://www.btaa.org/resources-for/students/srop/introduction)
 
-This is another repository of undergraduate research experiences. It includes a common application to approximately 10 institutions in the Midwest. This one is open to all disciplines but some institutions may focus more on the life sciences. 
-
-
+This is another repository of undergraduate research experiences. It includes a common application to approximately 10 institutions in the Midwest. This one is open to all disciplines but some institutions may focus more on the life sciences.
 
 [Return to Table of Contents](readme.md#table-of-contents)
