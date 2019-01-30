@@ -1,24 +1,26 @@
+# IRB Transition
+
 [Return to Table of Contents](readme.md#table-of-contents)
 
-# Questions
+## Questions
 1. Will our studies that transfer into the new system change determination status if they fall under the new exempt categories (i.e., Brief Benign Behavioral Interventions)?
     - The new categories will be applied to new reviews submitted after 01/21/19 with all the new forms. Studies that are already sorted into Expedited review categories would stay in expedited, unless you do a whole resubmission with all the new forms.
 2. What exactly does exempt status entail for studies in this category, in terms of record-keeping and consent forms?
 3. We have had issues with personnel leaving the lab and being removed from our protocols via amendment, only for them to continue appearing on our reviewers' end, eventually culminating in our submissions being "on hold until human subjects training is renewed". Is Huron expected to handle the interface between researchers' and reviewers' view of submissions any better than the old system?
     - there is no reason to expect this will be a problem. IRB thinks this was a quirk of the old system being built on top of an even older legacy system.
 
-# IRB training
-## Project Wahoo
+## IRB training
+### Project Wahoo
 - [Training Powerpoint](http://wahoo.research.ucf.edu/files/IRB-System-and-Toolkit-Updates.pdf)
 1. Toolkit changes
 2. *Common Rule* changes
 3. Software
 
-# Software transition
-## What to expect?
+## Software transition
+### What to expect?
 - some things will transfer, some will not
 
-## What information will not transfer?
+### What information will not transfer?
 - Exempt Determinations: HRP-255
     - I don't think this applies to any of our studies
 - Not Human Subjects Research (NHSR) Determinations: HRP-250
@@ -27,7 +29,7 @@
     - Applies to projects where an external IRB is being deferred to
     - Consumer Judgment study might apply?
 
-## Investigator Manual Updates: HRP-103
+### Investigator Manual Updates: HRP-103
 - addditional guidance on required training and who is eligible to serve as PI
 - major changes to software instructions
 - additional guidance on what group of forms/templates to use
@@ -35,13 +37,13 @@
     - continuing review allows modifications so you don't need to submit both if there are changes to be made at CR time
 - additional single IRB (sIRB) informations for multi-site studies
 
-## Informed Consent Form Changes: HRP-502 & HRP-502b
+### Informed Consent Form Changes: HRP-502 & HRP-502b
 - major change-key information vs detailed information
     - link > ?
 - additional language for studies involving the collection of identifiable information and biospecimens
 - what hasn't changed? a lot of template language for you to select from and delete if not applicable
 
-## protocol changes (expedited and board studies) HRP-403
+### protocol changes (expedited and board studies) HRP-403
 - major reorganization
     - multi-site information moved to the end
 - added revision history (!!!!)
@@ -49,7 +51,7 @@
 - what hasn't changed?
     - a lot of template language for you to select from and _delete if not applicable_
 
-## Toolkit Numbering Changes / New Forms
+### Toolkit Numbering Changes / New Forms
 |Was:                                           |Now:                                           |
 |-----------------------------------------------|-----------------------------------------------|
 | HRP-500 Research Activity Form                | HRP-250 Request For NHSR Determination        | 
@@ -59,7 +61,7 @@
 
 [Forms Page has updated](http://www.research.ucf.edu/Compliance/IRB/Investigators/forms.html)
 
-## Routing Changes
+### Routing Changes
 - currently, new submissions require PI, faculty advisor, and departmental signoff prior to submission to IRB
 - Updates:
     - [HRP-251 Faculty Advisor Review](http://www.research.ucf.edu/Compliance/IRB/Investigators/forms.html)
@@ -75,13 +77,13 @@ Undergraduate Researchers: Faculty advisor should serve as the PI and use [HRP-2
 
 (!!!) Everyone is already in the system, as long as they have a UCF NID (!!!)
 
-#### External team members
+### External team members
 - Currently listed on iRIS application in Sub-section 4.4
     - includes both engaged collaborators and other contacts
 - Now its own form; only use if applicable
     - HRP-253 External Members
 
-## Common Rule Change:
+### Common Rule Change:
 - will go into effect: 01/21/19 *after* the December toolkit & Software changes
 - mostly IRB SOPs and Worksheets
 - major changes for researchers
@@ -95,7 +97,7 @@ Undergraduate Researchers: Faculty advisor should serve as the PI and use [HRP-2
     
     - Will requires new further toolkit changes
 
-#### additional IRB-offered trainings
+### additional IRB-offered trainings
 - 101 workshops
 - IRB @ your doorstep
     - 101 workshop & Individual Consultation
@@ -197,4 +199,6 @@ IRB responses land in your [inbox](#my-inbox). If you need to modify forms like 
 ### Modification / Continuing Review
 This process is a unified smartform. For converted studies from the old system, the very first time we submit a **continuing review** we will need to classify it as a **Modification/Continuing Review** in order to bring in certain data from the previous system. Not a lot is actually being automatically migrated, so things like study forms will need to be reuploaded as the new form templates.
 
-[Return to Table of Contents](readme.md#table-of-contents)
+## End IRB Transition
+
+**[Back to Top](#irb-transition)**
