@@ -20,7 +20,7 @@ Below, you will find a [Table of Contents](#table-of-contents), with links to th
 ### Already know what you're looking for?
 
 - [Code of Conduct](code-of-conduct.md#code-of-conduct)
-- [Responsibilities](responsibilities.md#lab-member-expectations-and-responsibilities)
+- [Responsibilities](responsibilities.md#responsibilities--expectations)
 - [Policies](policies.md#general-policies)
 - [Procedures](procedures.md#procedures)
 - [Resources](resources.md#lab-resources)
