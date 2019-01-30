@@ -163,7 +163,7 @@ If you're an undergraduate student and you want to pursue any of these options, 
 
 
 
-# External Research Opportunities and Fellowships
+### External Research Opportunities and Fellowships
 
 [NSF Graduate Research Fellowship](https://www.nsfgrfp.org)
   Something to consider when undergoing the process of applying to graduate school. This is a competitive fellowship that offers financial support for research at the master's and doctorate's levels. You are able to apply once as an undergraduate and once as a graduate student. 
