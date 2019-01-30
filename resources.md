@@ -161,6 +161,10 @@ In addition to volunteering in lab, other research opportunities include:
 
 If you're an undergraduate student and you want to pursue any of these options, talk to Nichole or the lab manager(s).
 
+
+
+#External Research Opportunities and Fellowships
+
 [NSF Graduate Research Fellowship](https://www.nsfgrfp.org)
   Something to consider when undergoing the process of applying to graduate school. This is a competitive fellowship that offers financial support for research at the master's and doctorate's levels. You are able to apply once as an undergraduate and once as a graduate student. 
 
@@ -169,5 +173,7 @@ If you're an undergraduate student and you want to pursue any of these options, 
 
 [Big Ten Alliance Summer Research Opportunties Program](http://www.btaa.org/resources-for/students/srop/introduction)
   Another repository of undergraduate research experiences. It includes a common application to ~10 institutions in the Midwest. This is open to all disciplines. 
+
+
 
 [Return to Table of Contents](readme.md#table-of-contents)
