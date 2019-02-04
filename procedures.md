@@ -4,7 +4,7 @@
 
 ## GitHub Workflow
 
-<img src="graphics/simple-daily-git-workflow.jpg" width="200px">
+<img src="graphics/simple-daily-git-workflow.jpg" width="350px">
 
 ### Creating a new analysis branch
 
