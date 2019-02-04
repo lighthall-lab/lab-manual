@@ -4,6 +4,8 @@
 
 ## GitHub Workflow
 
+<img src="graphics/simple-daily-git-workflow.jpg" width="350px">
+
 ### Creating a new analysis branch
 
 1. `git branch Analysis-Name`
