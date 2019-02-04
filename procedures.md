@@ -4,7 +4,7 @@
 
 ## GitHub Workflow
 
-![](graphics/simple-daily-git-workflow.jpg) {:width="200px"}
+![](graphics/simple-daily-git-workflow.jpg){:width="200px"}
 
 <img src="graphics/simple-daily-git-workflow.jpg" width="100px">
 
