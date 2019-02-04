@@ -4,6 +4,8 @@
 
 ## GitHub Workflow
 
+![Git Workflow](graphics/simple-daily-git-workflow.jpg =100x "Git Workflow")
+
 ### Creating a new analysis branch
 
 1. `git branch Analysis-Name`
