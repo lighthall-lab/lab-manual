@@ -4,7 +4,7 @@
 
 ## GitHub Workflow
 
-![Git Workflow](graphics/simple-daily-git-workflow.jpg "Git Workflow")
+<img src="graphics/simple-daily-git-workflow.jpg" width="100px">
 
 ### Creating a new analysis branch
 
