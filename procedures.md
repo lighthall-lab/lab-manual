@@ -4,9 +4,7 @@
 
 ## GitHub Workflow
 
-![](graphics/simple-daily-git-workflow.jpg){:height="200px" width="100px"}
-
-<img src="graphics/simple-daily-git-workflow.jpg" width="100px">
+<img src="graphics/simple-daily-git-workflow.jpg" width="200px">
 
 ### Creating a new analysis branch
 
