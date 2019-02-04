@@ -20,6 +20,7 @@
     - `git add new-analysis file`
     - `git commit -m "made some changes like blah blah blah"`
 
+
 ### Send your changes to GitHub
 
 - `git push --set-upstream origin Analysis-Name`
@@ -52,8 +53,6 @@ Once your analysis branch is in a stable state, checked and tested:
 
 ## Recruitment
   
-[under construction]
-
 Once a study has been approved by the IRB, we can begin with recruiting participants, and scheduling sessions. Please note in your study's protocol whether your study will be using Sona, LLRN, or any other forms of recruitment.
 
 ### Sona
@@ -67,12 +66,25 @@ When you would like to recruit younger adults around the UCF campus, utilize Son
 
 Follow [LLRN recruitment procedures](https://llrn.github.io/protocol)
 
+Once you have your list of participants to contact, begin contacting the individuals on your list via email or phone (if there is a preference). Please, be sure to account for their preferences in regards to being contacting, like "Time of Day," "Phone or Email," or "Contact Frequency."
+
+Update the LLRN database once you have spoken to a participant to note whether they have scheduled, declined, or left a message (or you attempted to leave a message). 
+
+Be sure to mark any other notes that are of importance, for example, if the participant no longer wishes to be contacted for studies. 
+
+Other forms of recruitment for older adults should be explicitly stated on the study's protocol.
+
 ## Scheduling
 
 ### Older Adult Participants
+
+It is very important, before scheduling an older adult participant that you verify that they meet the study's eligibility requirements. This can be done via phone or email. 
+
+Once they appear to be eligible to participate in the study, open Google calendars to schedule their session. Be sure to keep in mind a few important facors, if applicable: the researcher's availability or lab hours, the room's availability, and parking availability. When you find a time and date that works best for the participant, add the event on the study's calendar, room's calendar, and the parking calendar - add the researcher to the Google calendar event. 
 
 [oa research tips](sourcedocs/oa-research-tips.docx)
 
 ### Younger Adult Participants
 
+Per SONA guidelines, younger adults should have already set their time and date per their selected Sona timeslot.
 **[↥ Back to Top](#procedures)**
