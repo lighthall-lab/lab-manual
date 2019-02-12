@@ -42,7 +42,7 @@ First, find the server address ([see here](#server-addresses)) of the resource y
 ### Direct Navigation
 
 1. In your computer's file browser, type the network resource's server address directly into the address bar. `\\net1110.net.ucf.edu\`...
-2. Sign in with your UCF NID and NID password
+2. Sign in with your UCF NID, prepended by `net\` if on Windows, i.e.: `net\xy123456`
 
 ### Mount as a Network Drive
 
