@@ -24,7 +24,7 @@
     4. [Google Calendars](resources.md#google-calendar)
     5. [Research Drive](resources.md#research-drive)
     6. [GitHub organization](resources.md#github)
-    7. [LLRN database] (https://sciences.ucf.edu/psychology/llrn/wp-admin/)
+    7. [LLRN database](https://sciences.ucf.edu/psychology/llrn/wp-admin/)
 
 ### Undergraduate Students
 
