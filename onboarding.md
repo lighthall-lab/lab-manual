@@ -37,10 +37,11 @@ All of the [above](#everyone), plus:
     - Supervisor: **"Nichole Lighthall"**
     - Request: 303 suite *only*
     - No General Building Access
-3. Volunteer documentation
-
-4. Request Research I building access and 350 suite access
+    
+3. Request Research I building access and 350 suite access
     - request via Nichole Lighthall
+    
+4. Volunteer documentation
 
 > We are required to document our volunteers every semester. For undergraduate  students, the preferred method is to enroll you in [PSY 4912 Directed Independent Research](sourcedocs/PSY4912.pdf).
 >
