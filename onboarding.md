@@ -39,6 +39,9 @@ All of the [above](#everyone), plus:
     - No General Building Access
 3. Volunteer documentation
 
+4. Request Research I building access and 350 suite access
+    - request via Nichole Lighthall
+
 > We are required to document our volunteers every semester. For undergraduate  students, the preferred method is to enroll you in [PSY 4912 Directed Independent Research](sourcedocs/PSY4912.pdf).
 >
 > PSY 4912 is a course which appears on your transcript, for 0-3 credit hours, per your preference. For the most part, you should take 0 credits. This will not impact your tuition bill, *so long as you are taking other classes*. If you are not taking other classes, such as during a summer semester, you will incur enrollment fees and you should **not** take PSY 4912.
