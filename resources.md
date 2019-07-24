@@ -39,6 +39,15 @@ As a UCF student/employee, you will have access to the UCF shared network resour
 
 First, find the server address ([see here](#server-addresses)) of the resource you are trying to access. Then decide whether you want to access it by mounting it as a network drive on your computer (semi-permanent), or navigate to it directly (temporary).
 
+## Remote In
+
+When outside of campus, you may need to remote in from your computer or laptop into the Lab's network. Additionally, you may need to remote in and connect to one of the computers.
+
+1. VPN into the network. Use VNC, Cisco, SMB, or another program to do this.
+  1.1. If you use SMB, the IP address should be as follows: smb://10.171.114.104
+  1.2. For other remote connector apps, use the IP adress (10.171.114.104) or the computers name (lighthall-imac.local) to remote in.
+2. Sign in with your NID username and password.
+
 ### Direct Navigation
 
 1. In your computer's file browser, type the network resource's server address directly into the address bar. `\\net1110.net.ucf.edu\`...
