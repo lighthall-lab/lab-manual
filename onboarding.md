@@ -16,7 +16,7 @@
 4. Request a Sona researcher account:
     - [Application Form](sourcedocs/researcher-study-application.pdf)
     - [Sona Admin](mailto:psych-research@ucf.edu)
-5. Request a [Qualtrics access upgrade](https://ucf.service-now.com/ucfit?id=kb_article&sys_id=a1c11a1c4f9883005d3f7f75f110c708)
+5. Request a [Qualtrics access upgrade](https://ucf.service-now.com/ucfit?id=kb_article&sys_id=a1c11a1c4f9883005d3f7f75f110c708):
     1.Should receive an "upgrade code" through  knights email within 24 hours
     2.If you do NOT receive that code, reach out to UCF IT
     3.Once you have the code, log into the Qualtrics account
