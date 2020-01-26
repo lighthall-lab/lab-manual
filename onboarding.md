@@ -25,7 +25,7 @@
     6. Enter the "upgrade code into the text box" and click submit
     7. Log out and back in
 6. Ensure the lab manager(s) grant/request your access to:
-    1. Lab Computers
+    1. Lab Computers (the lab manager needs to email IT about the computers in PSYCH 203C, 303H, and R1 350C)
     2. All relevant IRB studies
     3. [Google Drive](resources.md#google-drive)
     4. [Google Calendars](resources.md#google-calendar)
