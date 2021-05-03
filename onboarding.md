@@ -8,7 +8,7 @@
 ### Everyone
 
 1. Complete the [Onboarding Survey](http://ucf.qualtrics.com/jfe/form/SV_1O1vnZagPjiplYh) to provide the lab your contact information and UCF identifcation numbers.
-2. Complete [CITI training modules](http://www.research.ucf.edu/documents/PDF/IRB%20CITI%20training.pdf) in order of priority:
+2. Complete [CITI training modules](https://www.citiprogram.org/members/index.cfm?pageID=50) in order of priority:
     1. Group 2. Social/Behavioral
     2. Group 1. Biomedical Research Investigators and Key Personnel
     - When finished, export your completion certificates and send them to the lab manager(s).
