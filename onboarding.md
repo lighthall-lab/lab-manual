@@ -56,7 +56,7 @@ All of the [above](#everyone), plus:
 >
 > If you are interested in taking credit hours for your time working in the lab, you should discuss this with the lab manager(s) and with Nichole to determine what expectations there will be for your output over the semester. You should also be aware that you will incur the normal credit hour costs for doing so. This option is only recommended for students who need to fill credit hours for degree or financial aid purposes, and have a project in mind to work on consistently throughout the semester.
 >
-> The other option for documenting our volunteers is with the university's [Volunteer Agreement Forms](https://compliance.ucf.edu/files/2020/08/UCF-Volunteer-Services-Agreement-Revised-8.25.2020.pdf). During Summer semesters, any undergraduates working in the lab should be documented this way.
+> The other option for documenting our volunteers is with the university's [Volunteer Agreement Forms](https://nam02.safelinks.protection.outlook.com/?url=https%3A%2F%2Farsl.at%2Fg4sxuk&data=02%7C01%7CMargaret.Melli%40ucf.edu%7Cc816584bf6f849d4e64e08d864b588c4%7Cbb932f15ef3842ba91fcf3c59d5dd1f1%7C0%7C0%7C637370078125349438&sdata=Z4S9IBj3IEf550CKd9ADAt02rMMDDW0XSyY2n1ZrmD8%3D&reserved=0). During Summer semesters, any undergraduates working in the lab should be documented this way.
 
 ### Graduate Students
 
