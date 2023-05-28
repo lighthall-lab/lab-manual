@@ -60,7 +60,7 @@ When outside of campus, you may need to remote in from your computer or laptop i
 
 - Windows
   1. Right click on "This PC" and select "Map network drive..."
-  2. Choose a drive letter (We use "R:") and enter the network resource's server address: `\\net1110.net.ucf.edu\`...
+  2. Choose a drive letter (We use "R:") and enter the network resource's server address: `\\net1110.net.ucf.edu\`... if that doesn't work, sign in with new credentials and use: \\net1110.net.ucf.edu\research2\Lighthall_Lab\ 
 - Mac
   1. Cmd+K to open the "Connect to Server" dialog.
   2. Enter the network resources server address as a Samba protocol address: `smb://net1110.net.ucf.edu/`...
