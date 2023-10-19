@@ -2,22 +2,24 @@
 
 **[↤ Return to Table of Contents](readme.md#table-of-contents)**
 
-## Slack
-
-[Slack](https://lighthall-lab.slack.com/) will be used as the primary means of lab communication, such as general lab announcements (`#-general`), sharing links, sharing and/or discussing papers (`#-papers`), and any day-to-day message that can be sent without email. There's also a channel for keeping notes from our lab meetings (`#-lab-meetings`), as well as channels for specific projects (e.g. `#econdec`).
-
-Try to keep each channel on topic, so that people can subscribe only to the channels that concern them. For messages to one person or a small group of people, use the direct message channels.
-
-All lab members should install Slack to their computers and/or phones and check it regularly. Full-time lab members should also enable notifications for "Direct messages, mentions, & keywords", and select "Notify me about threads I'm following". Please consider allowing Slack updates on your phone and setting do-not-disturb mode for evening and night hours. You are not expected to *always* be reachable, but this configuration should be a reasonable middle-ground.
-
 ## Email
 
-Although Slack is convenient for day-to-day communication and group discussions, we should consider it unsecure. Any sensitive communications should be conducted via secure official channels, which is where your UCF.edu email address comes in. If you are  unsure whether it is appropriate to share something in Slack, feel free to use UCF Email. Communications that are only appropriate to have through secure Email might include:
+Email is the primary form of lab communication. Although Slack was convenient for day-to-day communication and group discussions, we should consider it unsecure. Any sensitive communications should be conducted via secure official channels, which is where your UCF.edu email address comes in. Communications that are only appropriate to have through secure Email might include:
 
 - exchanges of anyone's confidential or otherwise sensitive information, include your own and other lab members'
 - identifiable information about participants (names, contact info, etc.), especially in tandem with scheduling information
 
-Other email address domains such as Gmail, etc., should also be considered unsecure for the above communications. We do have a lab email account that goes to only the lab manager(s), PhD students, and Nichole: `lighthall-lab@gmail.com`.
+Other email address domains such as Gmail, etc., should also be considered unsecure for the above communications. We do have a lab email account that goes to only the lab manager(s), PhD students, and Nichole: `lighthall.lab@ucf.edu`.
+
+## Slack
+
+[Slack](https://lighthall-lab.slack.com/) used to be a means of lab communication, such as general lab announcements (`#-general`), sharing links, sharing and/or discussing papers (`#-papers`), and any day-to-day message that can be sent without email. There was also a channel for keeping notes from our lab meetings (`#-lab-meetings`), as well as channels for specific projects (e.g. `#econdec`).
+
+[Old information] Try to keep each channel on topic, so that people can subscribe only to the channels that concern them. For messages to one person or a small group of people, use the direct message channels.
+
+Full-time lab members should also enable notifications for "Direct messages, mentions, & keywords", and select "Notify me about threads I'm following". Please consider allowing Slack updates on your phone and setting do-not-disturb mode for evening and night hours. You are not expected to *always* be reachable, but this configuration should be a reasonable middle-ground.
+
+
 
 ## GitHub
 
