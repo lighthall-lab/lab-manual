@@ -23,11 +23,11 @@ Dr. Lighthall also has 30-minute ad-hoc meetings that take place right after lab
 
 ### Weekly lab meetings
 
-We will alternate between having a biweekly **lab meeting** and a biweekly **journal club**. Lab meetings will be focused on project presentations, practice talks and going over new data or methods. Lab meetings will last no longer than 1 hour. If at the end of 1 hour, we need more time to discuss something, we will either take a break before continuing or schedule another meeting. Lab meeting agendas and notes will be maintained in the `#lab-meetings` channel on Slack. All full-time lab members are expected to attend the weekly lab meeting. All part-time lab members (including undergraduates) are welcome to attend but attendance is not required.
+We will alternate between having a biweekly **lab meeting** and a biweekly **journal club**. Lab meetings will be focused on project presentations, practice talks and going over new data or methods. Lab meetings will last no longer than 1 hour. If at the end of 1 hour, we need more time to discuss something, we will either take a break before continuing or schedule another meeting. Lab meeting agendas and notes will be shared via weekly lab meeting reminder emails by the lab manager. All full-time lab members are expected to attend the weekly lab meeting. All part-time lab members (including undergraduates) are welcome to attend but attendance is not required.
 
 #### Journal Club
 
-The journal club will be focused on discussing new and/or important research articles. All undergraduates are expected to sign up for at least one journal club each semester. Journal club sign up lists will be set in the Google Drive docuemnt for Weekly Lab Meetings. Undergraduates will also be expected to select an article to disuss during the journal club. Articles can either be selected from the Journal Club meetings folder on the Google Drive, or a student can select another article of their choosing, as long as it's relevant, no older than 2 years and is a peer-reviewed journal. Journal club topics will be set in the `#papers` channel on Slack.
+The journal club will be focused on discussing new and/or important research articles. All undergraduates are expected to sign up for at least one journal club each semester. Journal club sign up lists will be set in the Google Drive document for Lab Meetings Schedule. Undergraduates will also be expected to select an article to discuss during the journal club. Articles can either be selected from the Journal Club meetings folder on the Google Drive, or a student can select another article of their choosing, as long as it's relevant, no older than 2 years and is a peer-reviewed journal.
 
 ### Individual meetings
 
