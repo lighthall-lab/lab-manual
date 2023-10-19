@@ -17,6 +17,8 @@ We encourage all lab members to be mindful of safety if staying in the lab past 
 
 In addition to poking my head into the lab regularly, I will be in my office with the door open for at least an hour every day that I'm on campus (most days). Feel free to interrupt me during that time. Because I am easily distracted, I ask that if my door is closed, send me a message or try me later rather than knock.
 
+Dr.Lighthall also has 30-minute adhoc meetings that take place right after lab meetings. This is a space where any lab member can talk to her regarding project ideas, request professional advice, or voice concerns.
+
 ## Meetings
 
 ### Weekly lab meetings
