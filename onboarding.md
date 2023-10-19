@@ -12,19 +12,18 @@
     1. Group 2. Social/Behavioral
     2. Group 1. Biomedical Research Investigators and Key Personnel
     - When finished, export your completion certificates and send them to the lab manager(s).
-3. Join the lab [Slack](resources.md#slack) channel.
-4. Request a Sona researcher account:
+3. Request a Sona researcher account:
     - [Application Form](sourcedocs/researcher-study-application.pdf)
     - [Sona Admin](mailto:psych-research@ucf.edu)
-5. Request a [Qualtrics access upgrade](https://ucf.service-now.com/ucfit?id=kb_article&sys_id=a1c11a1c4f9883005d3f7f75f110c708):
-    1. Should receive an "upgrade code" through  knights email within 24 hours
+4. Request a [Qualtrics access upgrade](https://ucf.service-now.com/ucfit?id=kb_article&sys_id=a1c11a1c4f9883005d3f7f75f110c708):
+    1. Should receive an "upgrade code" through UCF email within 24 hours
     2. If you do NOT receive that code, reach out to UCF IT
     3. Once you have the code, log into the Qualtrics account
     4. On the top right, click on the profile bubble (ex. an empty photo) and click on "account settings"
     5. Toggle the tabs to click on "upgrade account"
     6. Enter the "upgrade code into the text box" and click submit
     7. Log out and back in
-6. Ensure the lab manager(s) grant/request your access to:
+5. Ensure the lab manager(s) grant/request your access to:
     1. Lab Computers (the lab manager needs to email IT about the computers in PSYCH 203C, 303H, and R1 350C)
     2. All relevant IRB studies
     3. [Google Drive](resources.md#google-drive)
@@ -46,7 +45,7 @@ All of the [above](#everyone), plus:
     - No General Building Access
     
 3. Request Research I building access and 350 suite access
-    - request via Nichole Lighthall
+    - request via Lab Manager
     
 4. Volunteer documentation
 
