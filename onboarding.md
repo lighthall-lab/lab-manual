@@ -57,7 +57,8 @@ All of the [above](#everyone), plus:
 >
 > The other option for documenting our volunteers is with the university's [Volunteer Agreement Forms](https://arsl.at/yBZjdg7B). During Summer semesters, any undergraduates working in the lab should be documented this way.
 >
-> 5. Read the Responsibilities page for undergraduates
+
+5. Read the Responsibilities page for undergraduates [Here](responsibilities.md#undergraduates)
 
 ### Graduate Students
 
