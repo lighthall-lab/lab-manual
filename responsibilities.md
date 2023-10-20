@@ -67,7 +67,7 @@ All of the [above](#everyone), plus you will be expected to:
 
 - Maintain the lab IRB protocols and paperwork (e.g., archiving consent forms).
 - Oversee the hiring, scheduling, and training of undergraduate research assistants.
-  - Make sure all volunteers are properly documented, either through [course registration](sourcedocs/PSY4912.pdf) or [Volunteer Agreement forms]([http://www.ehs.ucf.edu/volunteers](https://arsl.at/yBZjdg7B)).
+  - Make sure all volunteers are properly documented, either through [course registration](sourcedocs/PSY4912.pdf) or [Volunteer Agreement forms](http://www.ehs.ucf.edu/volunteers](https://arsl.at/yBZjdg7B).
 - Maintain the lab website.
 - Assist with participant recruitment and scheduling.
 - Assist other lab members with data collection or analysis (typically you will be assigned to particular projects).
