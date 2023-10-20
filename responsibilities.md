@@ -21,7 +21,7 @@
 
 - Do not come into the lab if you are sick. Stay home and get healthy, and don't risk getting others sick.
 - Notify the lab manager(s) or Nichole if you will be out, either due to illness or vacation. Make a note on the lab calendar. If you are sick and you had experiments or meetings scheduled that day, notify your participants or collaborators and reschedule.
-- You are not expected to come into lab on [staff holidays](https://calendar.ucf.edu). If you are being paid, then you *are* expected to come into lab during university breaks (except for staff holidays or if you're taking your paid vacation time.
+- You are not expected to come into lab on [staff holidays](https://calendar.ucf.edu). If you are being paid, then you *are* expected to come into lab during university breaks (except for staff holidays or if you're taking your paid vacation time).
 - Lock the doors to the lab if no one else is around, even if you're stepping out for a minute.
 - Keep the lab tidy. Food messes should be cleaned up promptly, dirty dishes taken home with you, and common areas should be kept free of clutter. Items left unattended may be cleaned, reclaimed, or recycled. If you're using lab equipment, put it away when you're done.
 - The dress code in academia is generally casual. My only request is that you look semi-professional when interacting with participants and when presenting your work. Jeans are fine, gym clothes and pajamas are not.
