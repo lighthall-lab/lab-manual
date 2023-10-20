@@ -27,6 +27,12 @@ All projects that involve programming of any kind must use some form of version 
 
 Hosted on the lab's GitHub, you'll find a tutorial repository on the basics of using git for version control, and there is a `#-github` channel in Slack for questions, sharing, and discussion. We will also use GitHub for sharing script examples and hosting lab toolboxes for general use.
 
+## Pavlovia
+
+ We also have a [lab Pavlovia account](https://gitlab.pavlovia.org/lighthall.lab) set up, allowing you to create projects for data collection and share it easily with other lab members.
+
+Please ask the lab manager(s) for the credentials.
+
 ## Google Calendar
 
 Google Calendar is used to host a general lab calendar (AD&D Lab), as well as several calendars for individual testing rooms and for project scheduling.
