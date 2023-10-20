@@ -56,6 +56,8 @@ All of the [above](#everyone), plus:
 > If you are interested in taking credit hours for your time working in the lab, you should discuss this with the lab manager(s) and with Nichole to determine what expectations there will be for your output over the semester. You should also be aware that you will incur the normal credit hour costs for doing so. This option is only recommended for students who need to fill credit hours for degree or financial aid purposes, and have a project in mind to work on consistently throughout the semester.
 >
 > The other option for documenting our volunteers is with the university's [Volunteer Agreement Forms](https://arsl.at/yBZjdg7B). During Summer semesters, any undergraduates working in the lab should be documented this way.
+>
+> 5. Read the Responsibilities page for undergraduates
 
 ### Graduate Students
 
