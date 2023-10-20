@@ -93,7 +93,6 @@ All of the [above](#everyone), plus you will be expected to:
 - *If you are earning course credit for research, you must additionally:*
   - Attend at least one of our lab meetings or journal clubs per week.
   - Present at one meeting during the semester.
-  - Write a short essay on your research topic or experiences at the end of the semester.
 - For more information about undergraduate research positions, refer to the [Undergraduate Research Resources](resources.md#undergraduate-research).
 
 **[↥ Back to Top](#responsibilities--expectations)**
