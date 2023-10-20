@@ -24,7 +24,7 @@
 - You are not expected to come into lab on [staff holidays](https://calendar.ucf.edu). If you are being paid, then you *are* expected to come into lab during university breaks (except for staff holidays or if you're taking your paid vacation time).
 - Lock the doors to the lab if no one else is around, even if you're stepping out for a minute.
 - Keep the lab tidy. Food messes should be cleaned up promptly, dirty dishes taken home with you, and common areas should be kept free of clutter. Items left unattended may be cleaned, reclaimed, or recycled. If you're using lab equipment, put it away when you're done.
-- The dress code in academia is generally casual. My only request is that you look semi-professional when interacting with participants and when presenting your work. Jeans are fine, gym clothes and pajamas are not.
+- The dress code in academia is generally casual. My only request is that you look semi-professional when interacting with participants and when presenting your work: Jeans are fine, gym clothes and pajamas are not.
 - Arrive to lab at least 15 minutes before you have any experiments scheduled, so that you will be there to greet the participants.
 
 ## PI
