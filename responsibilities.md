@@ -90,6 +90,8 @@ All of the [above](#everyone), plus you will be expected to:
 - Assist other lab members with data collection or analysis (typically you will be assigned to particular projects).
 - Work with the lab manager and/or your research mentor to determine your weekly schedule. If you are not able to come in during your normal scheduled time, you must let the lab manager know.
 - Provide extra support to the lab manager (this may include filing paperwork). If you are in lab and do not have a task to do, you should ask the lab manager or your supervisor whether there is anything you can help out with.
+- *Notify your supervisor and lab manager(s) immediately in case of absences (scheduled or last-minute). This will ensure we can find a replacement for you to run participant sessions.*
+- Dress professionally for running study sessions with participants: jeans are fine as long as they are not ripped. Dress as if attending a job interview!
 - *If you are earning course credit for research, you must additionally:*
   - Attend at least one of our lab meetings or journal clubs per week.
   - Present at one meeting during the semester.
