@@ -15,9 +15,9 @@ Other email address domains such as Gmail, etc., should also be considered unsec
 
 [Slack](https://lighthall-lab.slack.com/) used to be a means of lab communication, such as general lab announcements (`#-general`), sharing links, sharing and/or discussing papers (`#-papers`), and any day-to-day message that can be sent without email. There was also a channel for keeping notes from our lab meetings (`#-lab-meetings`), as well as channels for specific projects (e.g. `#econdec`).
 
-[Old information] Try to keep each channel on topic, so that people can subscribe only to the channels that concern them. For messages to one person or a small group of people, use the direct message channels.
+[Old information begins] Try to keep each channel on topic, so that people can subscribe only to the channels that concern them. For messages to one person or a small group of people, use the direct message channels.
 
-Full-time lab members should also enable notifications for "Direct messages, mentions, & keywords", and select "Notify me about threads I'm following". Please consider allowing Slack updates on your phone and setting do-not-disturb mode for evening and night hours. You are not expected to *always* be reachable, but this configuration should be a reasonable middle-ground.
+Full-time lab members should also enable notifications for "Direct messages, mentions, & keywords", and select "Notify me about threads I'm following". Please consider allowing Slack updates on your phone and setting do-not-disturb mode for evening and night hours. You are not expected to *always* be reachable, but this configuration should be a reasonable middle-ground.[Old information ends]
 
 
 
